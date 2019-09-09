@@ -52,4 +52,8 @@ partiamo:
 
 Da qui in avanti Adrian ci racconta le altre missioni che hanno mandato in orbita sistemi che ci hanno permesso di conoscere meglio il pianeta nel quale viviamo e pensate che questo breve assaggio riguarda solo l'esplorazione della Terra... per conoscere le avventure che ci hanno portato ad esplorare la Luna, gli altri pianeti del Sistema Solare e il Sole non rimane che leggere il libro.
 
-[Amazon]([https://www.amazon.it/gp/product/B07BW9PS59/ref=kinw_myk_ro_title](https://www.amazon.it/gp/product/B07BW9PS59/ref=kinw_myk_ro_title))
+Adrian Fartade, *A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi*, Rizzoli, 2018. [Amazon]([https://www.amazon.it/gp/product/B07BW9PS59/ref=kinw_myk_ro_title](https://www.amazon.it/gp/product/B07BW9PS59/ref=kinw_myk_ro_title))
+
+> il nostro tempo come umanità è brevissimo e saremo qui solo per un attimo... un battito di ciglia.
+> Non passiamolo a occhi chiusi. Continuiamo a esplorare, a guardare oltre e, soprattutto,
+> continuiamo a meravigliarci e a essere meravigliosi. (Adrian Fartade)
