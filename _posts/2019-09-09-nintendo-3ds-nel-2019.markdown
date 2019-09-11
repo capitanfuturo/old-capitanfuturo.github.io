@@ -2,7 +2,7 @@
 layout: post
 title:  "Nintendo 3DS ha senso comprarlo nel 2019?"
 date:   2019-09-09 19:24:04 +0100
-categories: [gaming, review]
+categories: [giochi]
 ---
 
 ![N3DS](/assets/2019-09-09_3ds.jpeg)
