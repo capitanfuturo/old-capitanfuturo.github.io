@@ -2,7 +2,7 @@
 layout: post
 title:  "Obiettivi 2019"
 date:   2019-08-28 19:24:04 +0100
-categories: personal
+categories: [personale]
 ---
 Lo so che sono un bel po' in ritardo ma in vista del prossimo anno volevo fissare qui i pochi 
 obiettivi personali per il 2019 ed i relativi risultati parziali.
@@ -16,13 +16,13 @@ tal proposito vi invito a dare uno sgardo ai principi del PMP... il water fall �
 framework Agile ma fa parte della cultura generale.
 
 **Lettura**
-- Leggere almeno 3 libri. *Progresso 2/3*.
+- Leggere almeno 3 libri. *Progresso 3/3*.
   1. Adrian Fartade, *A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi*, Rizzoli, 2018. [Amazon](https://www.amazon.it/piedi-nudi-Marte-Adrian-Fartade-ebook/dp/B07BW9PS59/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
   2. Douglas Adams, *Guida galattica per gli autostoppisti*, Mondadori, 2012. [Amazon](https://www.amazon.it/Guida-galattica-autostoppisti-Douglas-Adams-ebook/dp/B007BYRXE4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
   3. Carnegie Dale, M. Marazza,*Come trattare gli altri e farseli amici (I grandi tascabili)*, Bompiani, 2013. [Amazon](https://www.amazon.it/gp/product/B00GC52N5M/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1)
 
 
 **Corsa**
-- Completare almeno 12 corse. *Progresso 13/12 per un totale di 78 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 12 corse. *Progresso 15/12 per un totale di 92 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 > Non importa quante volte cadi. Quello che conta è la velocità con cui ti rimetti in piedi. (Joe Biden)
