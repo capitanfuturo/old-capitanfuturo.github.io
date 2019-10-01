@@ -4,8 +4,6 @@ title:  "Guida Galattica per Autostoppisti, breve recensione"
 date:   2019-09-11 19:24:04 +0100
 categories: [libri]
 ---
-Douglas Adams, *Guida galattica per gli autostoppisti*, Mondadori, 2012. [Amazon](https://www.amazon.it/Guida-galattica-autostoppisti-Douglas-Adams-ebook/dp/B007BYRXE4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
-
 Quest'estate oltre a godermi delle meritate ferie mi sono dedicato alla lettura di un libro leggero e
 di piacevole lettura. L'ho sempre sentito nominare a lavoro per la storia che ruota intorno alla risposta alla _Domanda Fondamentale sulla Vita, sull'Universo e Tutto quanto_ che il super computer Pensiero Profondo restituisce agli scienziati che l'hanno costruito: _42_.
 
@@ -34,6 +32,9 @@ Non svelandovi altro sui personaggi che Arthur incontra in questa avventura e su
 
 ## Rimembranze
 Alla fine del libro mi è venuta in mente una foto scattata dalla sonda Voyager 1 nel 1990 mentre si trovava ai confini del Sistema Solare a 6 miliardi di chilometri dalla Terra e che poi è diventata famosa con il nome di [Pale Blue Dot](https://it.wikipedia.org/wiki/Pale_Blue_Dot)
+
+## Riferimento
+Douglas Adams, *Guida galattica per gli autostoppisti*, Mondadori, 2012. [Amazon](https://www.amazon.it/Guida-galattica-autostoppisti-Douglas-Adams-ebook/dp/B007BYRXE4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
 > Le nostre ostentazioni, la nostra immaginaria autostima, l'illusione che noi abbiamo una qualche 
 > posizione privilegiata nell'Universo, sono messe in discussione da questo punto di luce pallida. 
