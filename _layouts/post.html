@@ -5,12 +5,14 @@ layout: default
 <h2 class="post_title">
   {{ page.title }}
 </h2>
-{% if page.date %}
-<h3>{{ page.date | date_to_string }}</h3>
-{% endif %}
-{% if page.categories %}
-<h4>Categorie: {% for categories in page.categories %} {{ categories }} {% endfor %}</h4> 
-{% endif %}
+<h3>
+  {% if page.date %}
+  {{ page.date | date_to_string }}
+  {% endif %}
+  {% if page.categories %}
+  [{% for categories in page.categories %}<em>{{ categories }}</em>{% endfor %}]
+  {% endif %}
+</h3>
 
 {{ content }}
 

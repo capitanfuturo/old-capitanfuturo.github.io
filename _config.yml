@@ -15,12 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Capitanfuturo
 email: giuseppe.caliendo at gmail
+author: Giuseppe Caliendo
 description: >- # this means to ignore newlines until "baseurl:"
-  Another personal blog.
+  My personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://capitanfuturo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username:  giuseppecaliendo
-github_username:  capitanfuturo
+linkedin_username: giuseppecaliendo
+github_username: capitanfuturo
 show_excerpts: true
 
 # Build settings
