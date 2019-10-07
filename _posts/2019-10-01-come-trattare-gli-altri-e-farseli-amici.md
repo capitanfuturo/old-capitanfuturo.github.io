@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Come trattare gli altri e farseli amici, un breve schema"
+title:  "Come trattare gli altri e farseli amici"
 date:   2019-10-01 07:24:04 +0100
 categories: [libri]
 ---
