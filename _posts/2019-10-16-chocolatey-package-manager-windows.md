@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Chocolatey, il package manager per Windows"
-date:   2019-10-20 19:24:04 +0100
+date:   2019-10-16 19:24:04 +0100
 categories: [software]
 ---
-![Chocolatey_screenshot](/assets/2019-10-20/chocolatey.png)
+![Chocolatey_screenshot](/assets/2019-10-16/chocolatey.png)
 
 Con la distribuzione di Windows 10, Microsoft ha introdotto nel suo sistema operativo l'App Store. 
 Il mondo mobile e per prima Apple, che ne ha avuto l'idea, ha inventato questo marketplace integrato nei propri sistemi per l'installazione di software. Questo strumento permette ai publisher migliori o che pagano sponsorizzazioni di essere in vetrina mentre il proprietario della piattaforma può controllarne aspetti di sicurezza e standard applicativi che altrimenti non potrebbe gestire. 
@@ -64,3 +64,5 @@ e rispondere 'S' alla domanda di prompt.
 Chocolatey è una buona soluzione in ambiente Windows per automatizzare in stile Linux l'installazione dei programmi senza scaricarsi gli installer dai vari siti. Nel mio repository GIT trovate la mia configurazione attuale se volete farvi un'idea.
 L'interfaccia grafica è spartana ma fa il suo dovere e permette di aggiornare selettivamente o massivamente tutto il software installato.
 Probabilmente la versione a pagamento dà più soddisfazioni ma già la versione base è completa per un uso personale.
+
+> I bravi programmatori sanno cosa scrivere. I migliori sanno cosa riscrivere (e riusare). (Eric Steven Raymond)

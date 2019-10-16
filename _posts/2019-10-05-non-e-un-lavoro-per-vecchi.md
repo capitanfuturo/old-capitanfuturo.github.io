@@ -7,7 +7,7 @@ categories: [libri]
 
 Mia moglie sta portando avanti un progetto imprenditoriale nell'ambito della moda: [Buju](www.buju.it) e per ovvi motivi segue le varie influencer che ruotano intorno a questo mondo.
 A volte me lo dimentico ma avendo 37 anni sto vivendo in prima persona un periodo storico interessantissimo: siamo passati da un mondo interamente analogico all'era digitale ed a una velocità impressionante. Le strategie di marketing possono rimanere valide nel tempo ma i canali di comunicazione sono cambiati e così si sono aggiunte ulteriori strategie oltre a quelle classiche.
-Una delle esperienze simbolo di questi cambiamenti è stato il fashion blog TheBlondSalad (12 Ottobre 2019) pensato da Chiara Ferragni e Riccardo Pozzoli poi evoluto in magazine, e-commerce e tanto altro. 
+Una delle esperienze simbolo di questi cambiamenti è stato il fashion blog TheBlondSalad (12 Ottobre 2009) pensato da Chiara Ferragni e Riccardo Pozzoli poi evoluto in magazine, e-commerce e tanto altro. 
 Riccardo Pozzoli, autore di questo libro, prova a fare il punto della sua esperienza imprenditoriale e a raccontarsi in maniera sincera e colloquiale.
 Dalle foto fatte in casa al percorso che li ha portati a scardinare l'elitè del lusso facendo entrare nelle sfilate ragazze che scrivevano di moda alle proprie coetanee inventando così il lavoro della fashion blogger e successivamente influencer.
 Oltre alla storia di TheBlondSalad, Riccardo racconta la sua nuova impresa imprenditoriale con due soci: Foorban. Partendo da queste esperienze propone spunti interessanti e suggerimenti pratici.
