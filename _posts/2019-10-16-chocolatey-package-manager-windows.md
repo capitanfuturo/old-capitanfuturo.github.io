@@ -4,7 +4,7 @@ title:  "Chocolatey, il package manager per Windows"
 date:   2019-10-16 19:24:04 +0100
 categories: [software]
 ---
-![Chocolatey_screenshot](/assets/2019-10-16/chocolatey.png)
+![Chocolatey_screenshot](/assets/2019-10-16/chocolatey_screenshot.png)
 
 Con la distribuzione di Windows 10, Microsoft ha introdotto nel suo sistema operativo l'App Store. 
 Il mondo mobile e per prima Apple, che ne ha avuto l'idea, ha inventato questo marketplace integrato nei propri sistemi per l'installazione di software. Questo strumento permette ai publisher migliori o che pagano sponsorizzazioni di essere in vetrina mentre il proprietario della piattaforma può controllarne aspetti di sicurezza e standard applicativi che altrimenti non potrebbe gestire. 
