@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A piedi nudi su Marte"
+title:  ":books: A piedi nudi su Marte"
 date:   2019-09-05 22:24:04 +0100
 categories: [libri]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Non è un lavoro per vecchi: Quando una passione diventa business"
+title:  ":books: Non è un lavoro per vecchi: Quando una passione diventa business"
 date:   2019-10-05 07:24:04 +0100
 categories: [libri]
 ---

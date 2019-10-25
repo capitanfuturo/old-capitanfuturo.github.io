@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chocolatey, il package manager per Windows"
+title:  ":floppy_disk: Chocolatey, il package manager per Windows"
 date:   2019-10-16 19:24:04 +0100
 categories: [software]
 ---

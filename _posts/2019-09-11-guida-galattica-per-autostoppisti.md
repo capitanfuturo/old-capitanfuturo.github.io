@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guida Galattica per Autostoppisti"
+title:  ":books: Guida Galattica per Autostoppisti"
 date:   2019-09-11 19:24:04 +0100
 categories: [libri]
 ---
