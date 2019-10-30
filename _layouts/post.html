@@ -10,7 +10,7 @@ layout: default
   {{ page.date | date_to_string }}
   {% endif %}
   {% if page.categories %}
-  {% for categories in page.categories %}<code>{{ categories }}</code>{% endfor %}
+  {% for category in page.categories %}<code><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a></code>{% endfor %}
   {% endif %}
 </h3>
 
