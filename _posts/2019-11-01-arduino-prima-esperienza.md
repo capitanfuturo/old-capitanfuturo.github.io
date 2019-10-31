@@ -50,7 +50,7 @@ Per mantenere traccia degli esercizi fatti e di eventuali progetti personali con
 ### Esercizio #1 Accensione e spegnimento del LED integrato nel PIN 13
 Al PIN digitale 13 di Arduino UNO è associato un LED itnegrato alla scheda già predisposto con resistenza e circuito di sicurezza. Il primo esercizio che non necessita di null'altro che di Arduino è proprio questo.
 
-![LED_13](/assets/2019-11-01/001_led13.jpg)
+![LED_13](/assets/2019-11-01/001_led13.png)
 
 #### Variante 1:
 Utilizzare una breadboard ed installaci sopra un led di quelli presenti nel kit e ed una resistenza sfruttando la legge di Ohm: V = R x i per non bruciare il led.
@@ -58,7 +58,7 @@ Utilizzare una breadboard ed installaci sopra un led di quelli presenti nel kit 
 #### Variante 2:
 Usare il comando analogWrite() ed un pin digitale dotato della caratteristica [Pulse-width_modulation](https://it.wikipedia.org/wiki/Pulse-width_modulation) per modificare la luminosità del led.
 
-![PWM](/assets/2019-11-01/002_pwm.jpg)
+![PWM](/assets/2019-11-01/002_pwm.png)
 
 #### Cosa ho imparato
 1. Installazione dell'ambiente di sviluppo integrato IDE di Arduino
