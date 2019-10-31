@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Arduino, la mia prima avventura"
 date:   2019-11-01 19:24:04 +0100
-categories: [software]
+categories: [Hardware]
 ---
 ![Arduino_UNO](/assets/2019-11-01/000.jpg)
 

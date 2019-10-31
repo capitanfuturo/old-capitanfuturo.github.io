@@ -2,7 +2,7 @@
 layout: post
 title:  ":man: Benvenuto!"
 date:   2019-08-27 19:24:04 +0100
-categories: [personale]
+categories: [Personale]
 ---
 
 Benvenuto!

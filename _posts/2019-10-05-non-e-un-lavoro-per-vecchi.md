@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ":books: Non è un lavoro per vecchi: Quando una passione diventa business"
+title:  ":books: Non è un lavoro per vecchi: Quando una passione diventa business (Riccardo Pozzoli)"
 date:   2019-10-05 07:24:04 +0100
-categories: [libri]
+categories: [Libri]
 ---
 
 Mia moglie sta portando avanti un progetto imprenditoriale nell'ambito della moda: [Buju](www.buju.it) e per ovvi motivi segue le varie influencer che ruotano intorno a questo mondo.

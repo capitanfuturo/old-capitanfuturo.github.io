@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ":books: A piedi nudi su Marte"
+title:  ":books: A piedi nudi su Marte (Adrian Fartade)"
 date:   2019-09-05 22:24:04 +0100
-categories: [libri]
+categories: [Libri]
 ---
 Quest'estate mi sono dedicato alla lettura. Ho preso un'occasione per comprare in offerta su Amazon un Kindle e come primo acquisto mi sono regalato un ottimo libro di Adrian Fartade. Per farvi un'idea del personaggio è obbligo iscriversi al canale youtube dell'autore [link4universe]([https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g](https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g)) mentre per conoscere meglio la persona consiglio questa intervista di [Breaking Italy]([https://www.youtube.com/watch?v=yCsxuGKBNQw](https://www.youtube.com/watch?v=yCsxuGKBNQw)).
 

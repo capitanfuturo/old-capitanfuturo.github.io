@@ -2,7 +2,7 @@
 layout: post
 title:  ":floppy_disk: Chocolatey, il package manager per Windows"
 date:   2019-10-16 19:24:04 +0100
-categories: [software]
+categories: [Software]
 ---
 ![Chocolatey_screenshot](/assets/2019-10-16/chocolatey_screenshot.png)
 

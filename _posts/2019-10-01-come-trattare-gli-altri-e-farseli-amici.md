@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ":books: Come trattare gli altri e farseli amici"
+title:  ":books: Come trattare gli altri e farseli amici (Dale Carnegie)"
 date:   2019-10-01 07:24:04 +0100
-categories: [libri]
+categories: [Libri]
 ---
 
 Negli obiettivi personali di quest'anno mi ero proposto di leggere almeno 3 libri. Lo so non è un grande obiettivo ma con 3 figli il tempo libero è il bene più prezioso che si abbia a disposizione, almeno in questo mio momento storico.

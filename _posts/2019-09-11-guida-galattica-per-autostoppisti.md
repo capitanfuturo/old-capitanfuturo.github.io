@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ":books: Guida Galattica per Autostoppisti"
+title:  ":books: Guida Galattica per Autostoppisti (Adams Douglas)"
 date:   2019-09-11 19:24:04 +0100
-categories: [libri]
+categories: [Libri]
 ---
 Quest'estate oltre a godermi delle meritate ferie mi sono dedicato alla lettura di un libro leggero e
 di piacevole lettura. L'ho sempre sentito nominare a lavoro per la storia che ruota intorno alla risposta alla _Domanda Fondamentale sulla Vita, sull'Universo e Tutto quanto_ che il super computer Pensiero Profondo restituisce agli scienziati che l'hanno costruito: _42_.
