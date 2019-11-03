@@ -55,8 +55,12 @@ Al PIN digitale 13 di Arduino UNO è associato un LED itnegrato alla scheda già
 #### Variante 1:
 Utilizzare una breadboard ed installaci sopra un led di quelli presenti nel kit e ed una resistenza sfruttando la legge di Ohm: V = R x i per non bruciare il led.
 
+[https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13](https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13)
+
 #### Variante 2:
 Usare il comando analogWrite() ed un pin digitale dotato della caratteristica [Pulse-width_modulation](https://it.wikipedia.org/wiki/Pulse-width_modulation) per modificare la luminosità del led.
+
+[https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11](https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11)
 
 ![PWM](/assets/2019-11-01/002_pwm.png)
 
@@ -76,6 +80,8 @@ In ogni caso l'idea dell'esercizio è quella di creare con una striscia di 10 le
 
 #### Variante 1:
 Variare la velocità dell'effetto luminoso utilizzando un potenziometro ed un'uscita analogica
+
+[https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro](https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro)
 
 ![Potenziometro](/assets/2019-11-01/003.jpg)
 
