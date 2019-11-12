@@ -23,7 +23,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         {% if post.categories %}
-        <span class="post-meta">{% for category in post.categories %}<code><code><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a></code></code>{% endfor %}</span>
+        <span class="post-meta">{% for category in post.categories %}<code><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a></code>{% endfor %}</span>
         {% endif %}
       </h2>
       {%- if site.show_excerpts -%}
