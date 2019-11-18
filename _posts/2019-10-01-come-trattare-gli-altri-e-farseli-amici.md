@@ -4,7 +4,7 @@ title:  ":books: Come trattare gli altri e farseli amici (Dale Carnegie)"
 date:   2019-10-01 07:24:04 +0100
 categories: [Libri]
 ---
-
+## Premessa
 Negli obiettivi personali di quest'anno mi ero proposto di leggere almeno 3 libri. Lo so non è un grande obiettivo ma con 3 figli il tempo libero è il bene più prezioso che si abbia a disposizione, almeno in questo mio momento storico.
 Tra i canali YouTube che seguo ho sentito parlare di questo libro di Dale Carnegie (1888-1955) e così ho deciso di aggiungerlo alla lista di quest'anno. 
 Ultimamente va di moda leggere testi di crescita personale o meglio di _self empowerment_ e questo è stato scritto nel 1936 prima dell'inizio della Seconda Guerra Mondiale. Se proprio devo iniziare proviamo con qualcosa di rodato.
@@ -81,7 +81,9 @@ Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse 
 
 ## Considerazioni
 Non ho ancora elementi validi per giudicare questo manuale però l'intenzione è quella di provarci veramente a mettere in pratica questi principi.
+
 La lettura è piacevole in ogni caso anche se come premesso nella prefazione alcuni nomi e avvenimenti potrebbero essere distanti per un pubblico odierno ed europeo.
+
 Se siete desiderosi di migliorare le vostre performance di relazione è un buon punto di partenza e dà consigli chiari e concisi... la differenza come sempre la facciamo noi con la nostra volontà.
 
 > “Quando due persone sono sempre d’accordo, una delle due non serve.” (Anonimo)

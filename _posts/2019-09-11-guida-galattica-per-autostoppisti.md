@@ -4,16 +4,17 @@ title:  ":books: Guida Galattica per Autostoppisti (Adams Douglas)"
 date:   2019-09-11 19:24:04 +0100
 categories: [Libri]
 ---
+## Premessa
 Quest'estate oltre a godermi delle meritate ferie mi sono dedicato alla lettura di un libro leggero e
-di piacevole lettura. L'ho sempre sentito nominare a lavoro per la storia che ruota intorno alla risposta alla _Domanda Fondamentale sulla Vita, sull'Universo e Tutto quanto_ che il super computer Pensiero Profondo restituisce agli scienziati che l'hanno costruito: _42_.
+di piacevole lettura. L'ho sempre sentito citare a lavoro per la storia che ruota intorno alla risposta che il super computer Pensiero Profondo restituisce alla _Domanda Fondamentale sulla Vita, sull'Universo e Tutto quanto_ agli scienziati che l'hanno costruito: _42_.
 
-Detta così immagni non dica nulla ma vi basti pensare che la risposta a qualunque domanda in un
+Detta così immagino non dica nulla ma vi basti pensare che la risposta a qualunque domanda in un
 dialogo tra ingegneri informatici può sempre essere 42 destando il compiacimento di tutti
 i partecipanti alla discussione.
 
-Non conoscendo altro di questo libro mi sono incuriosito e ritengog che sia un must per chi come me si ritiene nel profondo un nerd.
+Non conoscendo altro di questo libro mi sono incuriosito e ritengo che sia un must per chi come me si ritiene nel profondo un nerd.
 
-Il protagonista,  Arthur Dent scopre che la sua casa sta per essere rasa al suolo per far spazio ad una superstrada ma nello stesso giorno scoprirà che anche l'intera Terra scomparirà per lo stesso motivo solo che l'autostrada è galattica.
+Il protagonista, Arthur Dent scopre che la sua casa sta per essere rasa al suolo per far spazio ad una superstrada ma nello stesso giorno scoprirà che anche l'intera Terra scomparirà per lo stesso motivo solo che l'autostrada da costruire è galattica.
 
 Arthur viene salvato da un suo vecchio amico, Ford Prefect che si dichiara essere un alieno e lo inizierà alla guida galattica per autostoppisti chiedendo un passaggio ad una delle astronavi venute per distruggere la Terra.
 

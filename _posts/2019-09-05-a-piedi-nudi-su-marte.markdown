@@ -4,11 +4,12 @@ title:  ":books: A piedi nudi su Marte (Adrian Fartade)"
 date:   2019-09-05 22:24:04 +0100
 categories: [Libri]
 ---
-Quest'estate mi sono dedicato alla lettura. Ho preso un'occasione per comprare in offerta su Amazon un Kindle e come primo acquisto mi sono regalato un ottimo libro di Adrian Fartade. Per farvi un'idea del personaggio è obbligo iscriversi al canale youtube dell'autore [link4universe]([https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g](https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g)) mentre per conoscere meglio la persona consiglio questa intervista di [Breaking Italy]([https://www.youtube.com/watch?v=yCsxuGKBNQw](https://www.youtube.com/watch?v=yCsxuGKBNQw)).
+## Premessa
+Quest'estate mi sono dedicato alla lettura. Ho acquistato in offerta su Amazon un Kindle e come primo investimento mi sono regalato un ottimo libro di Adrian Fartade. Se non lo conosceste, per farvi un'idea del personaggio è obbligo iscriversi al suo canale youtube [link4universe]([https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g](https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g)) mentre per conoscere meglio la persona vi consiglio questa intervista di [Breaking Italy]([https://www.youtube.com/watch?v=yCsxuGKBNQw](https://www.youtube.com/watch?v=yCsxuGKBNQw)).
 
 Il libro narra delle avventure dell'uomo nella scoperta e navigazione del sistema solare. Ricco di citazioni della cultura nerd e di 
 
-In tutto il libro pervade l'ottimismo e la passione dell'autore per l'astronomia e in generale per l'Uomo. "Siate meravigliosi" è il suo motto!
+In tutto il libro pervade l'ottimismo e la passione dell'autore per l'astronomia e in generale per l'Uomo. _"Siate meravigliosi"_ è il suo motto!
 
 ## Cosa mi porto a casa da questa lettura
 
