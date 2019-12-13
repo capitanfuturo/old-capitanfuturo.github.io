@@ -5,21 +5,27 @@ date:   2019-10-01 07:24:04 +0100
 categories: [Libri]
 ---
 ## Premessa
+
 Negli obiettivi personali di quest'anno mi ero proposto di leggere almeno 3 libri. Lo so non è un grande obiettivo ma con 3 figli il tempo libero è il bene più prezioso che si abbia a disposizione, almeno in questo mio momento storico.
-Tra i canali YouTube che seguo ho sentito parlare di questo libro di Dale Carnegie (1888-1955) e così ho deciso di aggiungerlo alla lista di quest'anno. 
+Tra i canali YouTube che seguo ho sentito parlare di questo libro di Dale Carnegie (1888-1955) e così ho deciso di aggiungerlo alla lista di quest'anno.
+
 Ultimamente va di moda leggere testi di crescita personale o meglio di _self empowerment_ e questo è stato scritto nel 1936 prima dell'inizio della Seconda Guerra Mondiale. Se proprio devo iniziare proviamo con qualcosa di rodato.
 
 _Come trattare gli altri e farseli amici_ è un libro che come lo stesso autore scrive "un manuale pratico di relazioni umane". Ecco direi che per un ingegnere può essere un buon inizio parlare di relazioni umane e non di relazioni tra casi d'uso, entità relazionali, algoritmi, diagrammi UML o altre amenità impalpabili.
 
-Quello che segue sarà quindi uno schema di quello che ho letto e se vi potrà essere di aiuto dopo la vostra lettura ne sarò lieto. Giustamente tra i primi consigli del libro c'è quello di appuntarsi delle note ed evidenziare le frasi più di interesse durante la lettura e di riprendere poi successivamente questi spunti. Rileggere i capitoli ed esercitarsi costantemente. 
+Quello che segue sarà quindi uno schema di quello che ho letto e se vi potrà essere di aiuto dopo la vostra lettura ne sarò lieto. Giustamente tra i primi consigli del libro c'è quello di appuntarsi delle note ed evidenziare le frasi più di interesse durante la lettura e di riprendere poi successivamente questi spunti. Rileggere i capitoli ed esercitarsi costantemente.
 
 ## Struttura del libro
-Dopo una carriera di alti e bassi e in diversi lavori, Dale approda alla didattica ed in particolare si interessa del pubblico business andando a costruire degli incontri nei quali spiega la sua teoria.
-Il pubblico al quale si rivolge è però orientato a risultati veloci e pratici e così nasce questo libro che risulta essere proprio un manuale di principi semplici ed efficaci. 
 
-## Schema per punti e principi 
+Dopo una carriera di alti e bassi e in diversi lavori, Dale approda alla didattica ed in particolare si interessa del pubblico business andando a costruire degli incontri nei quali spiega la sua teoria.
+Il pubblico al quale si rivolge è però orientato a risultati veloci e pratici e così nasce questo libro che risulta essere proprio un manuale di principi semplici ed efficaci.
+
+## Schema per punti e principi
+
 ### Parte Prima
+
 #### Tecniche fondamentali per trattare la gente
+
 1. _"Se vuoi prenderti il miele, non tirar calci all'alveare"_. Può sembrare fin troppo banale ma è forse uno dei principi più difficili da controllare. Calato nelle relazioni significa che bisogna imparare a **non criticare gli altri** perché la critica non porta a nulla, è pericolosa, ferisce il prossimo e lo mette sulla difensiva, proprio il contrario di quello che vogliamo in una relazione costruttiva.
 L'esercizio è quello di cercare di capire l'altro senza recriminare o condannare perché probabilmente se fossimo al suo posto ci comporteremmo alla stessa maniera.
 2. _Il grande segreto per trattare con la gente_. Tutti noi vogliamo essere importanti. Questo messaggio si traduce con l'esercizio di trovare gli aspetti positivi dell'altro per poi  **donare sinceramente lodi e ammirazione**. Questo metterà l'altro in condizioni favorevoli alla relazione.
@@ -28,8 +34,10 @@ Da ricordare che si parla di complimenti che nascono dal cuore di chi ha riconos
 Banalmente ad un cliente piace avere la sensazione di aver comprato qualcosa e non che qualcuno gliela stia vendendo. E' questione di prospettiva.
 
 ### Parte Seconda
+
 #### Sei modi per farsi benvolere
-1. _Come essere bene accolti ovunque_. Ci si fa più amici in due mesi mostrandosi **interessati agli altri** che non in due anni tentando di indurre gli altri a interessarsi a noi. 
+
+1. _Come essere bene accolti ovunque_. Ci si fa più amici in due mesi mostrandosi **interessati agli altri** che non in due anni tentando di indurre gli altri a interessarsi a noi.
 Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse per l'altro, per la sua storia, per il suo lavoro.
 2. _Un modo semplice per fare subito una buona impressione_. **Sorridi** semplicemente, spontaneamente. E se non si ha voglia agisci come se fossi già felice.
 3. _Se non seguite questo consiglio avrete dei problemi_. **Chiama le persone per nome**.
@@ -38,7 +46,9 @@ Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse 
 6. _Come riuscire subito simpatici alla gente_. **Essere gentili e sinceramente interessati**
 
 ### Parte Terza
+
 #### Come convincere il prossimo a condividere le vostre opinioni
+
 1. _Impossibile avere la meglio discutendo_. **Evita gli scontri verbali**:
 - controllarsi
 - ascoltare
@@ -47,7 +57,8 @@ Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse 
 - promettere di ripensare all'idea dell'altro
 - ringraziare l'altro per l'interesse sull'argomento
 - proporre un secondo incontro dopo aver ragionato su quanto emerso.
-2. _Come farsi sicuramente dei nemici e come evitarlo_. **Mostra rispetto per l'opinione altrui senza dar torto agli altri**. Socrate diceva di sapere di non sapere e chi siamo noi per sapere più di Socrate? Siamo tutti convinti delle nostre idee e se vengono attaccate ci sentiamo anche noi personalmente attaccati. Come fare? Con modestia non  sminuendo la proposta dell'altro ma portandolo a vedere un altro punto di vista.
+2. _Come farsi sicuramente dei nemici e come evitarlo_. **Mostra rispetto per l'opinione altrui senza dar torto agli altri**.
+Socrate diceva di sapere di non sapere e chi siamo noi per sapere più di Socrate? Siamo tutti convinti delle nostre idee e se vengono attaccate ci sentiamo anche noi personalmente attaccati. Come fare? Con modestia non  sminuendo la proposta dell'altro ma portandolo a vedere un altro punto di vista.
 3. _Se avete torto, ammettetelo_. **Ammetti subito il tuo errore prima che ti venga additato**
 4. _Una goccia di miele_. **Cominciate mostrandovi amici**
 5. _Il segreto di Socrate_. **Valorizzare i punti di contatto, entrambi state perseguendo lo stesso scopo**. Per fare questo è preferibile fare delle domande al proprio interlocutore al quale possa dire sì perché in accordo. In questo modo con una serie di sì si può portare l'altro a vedere il proprio punto di vista senza mettersi nella difensiva.
@@ -60,7 +71,9 @@ Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse 
 12. _Se non riuscite in nessun altro modo provate questo sistema_ **Stimolate la competizione**
 
 ### Parte Quarta
+
 #### Essere un leader: come far cambiare opinione agli altri senza offendere e suscitare risentimenti
+
 1. _Se proprio si deve criticare un difetto, ecco come cominciare_ **Iniziare dalle cose piacevoli prima delle cose spiacevoli**
 2. _Come criticare senza farsi odiare_ Spesso introduciamo un discorso per poi collegare quello che vogliamo usare come critica con un ma. "E tutto molto bello ma...". **Sostituire al "ma" una semplice "e"** richiamando su un comportamento positivo che aiuti a superare un errore piuttosto che criticare l'errore stesso.
 3. _Parlare dei propri errori e difetti_ **Parla dei tuoi errori prima di quelli degli altri**
@@ -72,6 +85,7 @@ Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse 
 9. _Fate in modo che la gente sia contenta di fare quel che chiedete_ **Mostra i benefici che l'altro può ottenere facendo quello che chiedete**
   
 ## Cosa mi porto a casa da questa lettura
+
 1. Devo imparare a non criticare gli altri ma capirli.
 2. La natura dell'uomo non è cambiata in milioni di anni. Quello che desideriamo adesso è paragonabile a quello che volevano i nostri antenati. Se nel 1936 questi argomenti sono così attuali è perchè tutti in fondo desideriamo essere amati per quello che siamo, essere capiti e incoraggiati. In questo ambiente riusciamo a dare il massimo di noi stessi.
 3. C'è una bella differenza tra l'adulazione e il complimento sincero e solo quest'ultimo può aiutarci a metterci in relazione con l'altro.
@@ -80,6 +94,7 @@ Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse 
 6. La base di tutto è quella di cercare sempre di mettersi nei panni del prossimo per cercare di capirlo e per valorizzarlo. Così spontaneamente questo sentimento sarà rivolto anche a noi. E' un principio molto cristiano che viene applicato qui anche nelle relazioni lavorative e non solo.
 
 ## Considerazioni
+
 Non ho ancora elementi validi per giudicare questo manuale però l'intenzione è quella di provarci veramente a mettere in pratica questi principi.
 
 La lettura è piacevole in ogni caso anche se come premesso nella prefazione alcuni nomi e avvenimenti potrebbero essere distanti per un pubblico odierno ed europeo.

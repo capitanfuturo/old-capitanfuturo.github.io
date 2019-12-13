@@ -1,0 +1,53 @@
+---
+layout: post
+title:  ":trophy: Obiettivi 2020 e bilancio 2019"
+date:   2019-12-10 19:24:04 +0100
+categories: [Personale]
+---
+Il 2020 è un anno bisestile che vedrà ospitate le olimpiadi a Tokyo. Gli antichi romani credevano che gli anni bisestili non portassero bene e questo molto probabilmente perché Febbraio era anche il mese dei defunti.
+
+A me piace pensare invece che quest'anno mi mette a disposizione un giorno in più per poter raggiungere i miei obiettivi annuali.
+
+Inoltre inizierà un nuovo decennio e chissà cosa ci aspetterà. Personalmente negli anni 2010 sono arrivati nella mia vita i miei 3 figli ed ho cambiato 2 aziende, mia moglie ne ha aperto una e abbiamo conosciuto diversi nuove persone e famiglie.
+Nel mondo tecnologico tanto per ricordare abbiamo assistito alla nascita di diversi brand e prodotti nuovi:
+
+- Instagram (6 Ottobre 2010)
+- Tik Tok (2014)
+- Stampa 3D in kit (RepRap al CES di Las Vegas nel 2012)
+- Airpod (Ottobre 2016)
+- AliExpress (2010)
+- DeepMind (2010)
+- Niantic (2010)
+- Google Stadia (2019)
+- Alphabet (2015)
+- Xiaomi (2010)
+- Honor (2013)
+- One Plus (2013)
+- N26 (2016)
+- Revolut (2015)
+
+Abbiamo visto crescere la Cina nella produzione di nuove tecnologie e la "guerra fredda" commerciale con gli Stati Uniti, abbiamo assistito alla diffusione dell'Intelligenza Artificiale anche in prodotti di consumo, all'esplosione dei servizi in cloud, alla dematerializzazione delle banche tradizionali, alla diffusione delle criptovalute, alla vendita di massa delle auto elettriche, ai lanci spaziali privati e alle piattaforme di gig economy ma anche all'interessamento sempre più globale dei problemi legati alla salvaguardia del pianeta Terra.
+E molte altri fatti non solo legati al mondo tecnologico. Un buon punto di partenza può essere questo [link](https://it.wikipedia.org/wiki/Anni_2010).
+
+Nel 2019 sono riuscito a mettere in fila diverse sessioni di corsa lenta che mi hanno aiutato a perdere qualche chilo e a ritrovare più energia fisica. La lettura mi ha portato diversi spunti di miglioramento per il mio carattere e questo blog probabilmente ne è l'espressione più chiara. Sto cercando di vincere la mia introversione e di imparare ad esprimere i miei pensieri in modo che anche gli altri ne possano cogliere il significato desiderato. D'altronde quello che si scrive e dice non sempre rispecchia quello che si pensa e se una buona idea non viene espresse chiaramente rimane una buona idea nella sola tesa di chi l'ha pensata.
+
+Altro aspetto è la pratica dell'[autoefficacia](https://it.wikipedia.org/wiki/Autoefficacia), instesa come strumento per aumentare il mio senso di controllo nell'affrontare meglio situazioni di stress. L'attenzione per l'altro nella comunicazione come ponte per incontrare e scoprire le persone che mi circondano. Infine dal 2019 mi porto a casa come l'investimento di energie su un processo continuo di automiglioramento inizi a portare piccoli frutti nella mia personalità.
+
+Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare.
+
+## Lettura
+
+- Leggere almeno 7 libri. *Progresso 0/7*.
+
+## Corsa
+
+- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 0/35 per un totale di 0 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+
+## Lifelong learning
+
+- Imparare a programmare su piattaforma Arduino completando gli esercizi base *Progresso 0/10*
+- Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 0/96* [gofluent.com](https://portal.gofluent.com/group/client)
+- Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. *Progresso 0*
+- Imparare un nuovo linguaggio di programmazione.
+
+> Invece di maledire il buio, prova ad accendere la luce. (Paolo Trabucchi)

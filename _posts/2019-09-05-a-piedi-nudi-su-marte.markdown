@@ -5,11 +5,14 @@ date:   2019-09-05 22:24:04 +0100
 categories: [Libri]
 ---
 ## Premessa
-Quest'estate mi sono dedicato alla lettura. Ho acquistato in offerta su Amazon un Kindle e come primo investimento mi sono regalato un ottimo libro di Adrian Fartade. Se non lo conosceste, per farvi un'idea del personaggio è obbligo iscriversi al suo canale youtube [link4universe]([https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g](https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g)) mentre per conoscere meglio la persona vi consiglio questa intervista di [Breaking Italy]([https://www.youtube.com/watch?v=yCsxuGKBNQw](https://www.youtube.com/watch?v=yCsxuGKBNQw)).
 
-Il libro narra delle avventure dell'uomo nella scoperta e navigazione del sistema solare. Ricco di citazioni della cultura nerd e di 
+Quest'estate dopo aver acquistato un Kindle 10°gen mi sono dedicato alla lettura. Come primo investimento mi sono regalato un ottimo libro di Adrian Fartade. Se qualcuno non lo conoscesse, penso sia d'obbligo iscriversi al suo canale youtube [link4universe]([https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g](https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g)) e se voleste approfondire la persona dietro ai video di divulgazione spaziale vi consiglio questa intervista di [Breaking Italy]([https://www.youtube.com/watch?v=yCsxuGKBNQw](https://www.youtube.com/watch?v=yCsxuGKBNQw)).
 
-In tutto il libro pervade l'ottimismo e la passione dell'autore per l'astronomia e in generale per l'Uomo. _"Siate meravigliosi"_ è il suo motto!
+A piedi nudi su Marte narra delle avventure dell'uomo nella scoperta e nella navigazione del sistema solare. Ricco di citazioni della cultura nerd e di aneddoti divertenti delle varie missioni, la narrazione lascia al lettore un sapore di pervadente ottimismo nei confronti dell'umanità e la passione dell'autore per l'astronomia ma in generale per l'Uomo. _"Siate meravigliosi"_ è il suo motto!
+
+Dal primo volo umano con un mezzo più simile ad un aliante che ad un aereo al primo passo sulla Luna trascorrono un solo secolo e questo è il punto di partenza per una riflessione personale sul fatto che il momento storico che stiamo vivendo è sicuramente tra i più complicati ed interessanti della storia dell'uomo.
+
+L'autore ci porta passo passo alla scoperta delle imprese umane dalle ipotesi sulla struttura del sistema solare alla sua esplorazione con uno stile personale, inconfondibile ed emozionante.
 
 ## Cosa mi porto a casa da questa lettura
 
@@ -19,6 +22,7 @@ In tutto il libro pervade l'ottimismo e la passione dell'autore per l'astronomia
  4. Si possono affrontare temi scientifici in maniera semplice e accattivante senza per forza entrare in tecnicismi e dettagli. Il seme della curiosità porterà poi i più curiosi ad approfondire.
 
 ## Piccolo assaggio cronostorico del primo capitolo
+
 Solo per dare un assaggio senza rovinarvi il libro riporto la cronistoria del primo capitolo dedicato alla Terra a suffragio di quanto scritto sopra. Seguirò la seguente convenzione:
 1. Emoticon: 
 	 - :metal: indica impresa riuscita 
@@ -28,6 +32,7 @@ Solo per dare un assaggio senza rovinarvi il libro riporto la cronistoria del pr
 3. Descrizione
 
 partiamo:
+
 - :star: 460 a.C. Democrito ipotizza che il mondo sia costituito da particelle indivisibili dette atomi.
 - :star: 310 a.C. Aristarco di Samo ipotizza che sia la Terra a girare intorno  al Sole.
 - :star: 240 a.C. Erastotene di Cirene calcola per la prima volta la circonferenza  della Terra con un errore del 2-20%
@@ -54,6 +59,7 @@ partiamo:
 Da qui in avanti Adrian ci racconta le altre missioni che hanno mandato in orbita sistemi che ci hanno permesso di conoscere meglio il pianeta nel quale viviamo e pensate che questo breve assaggio riguarda solo l'esplorazione della Terra... per conoscere le avventure che ci hanno portato ad esplorare la Luna, gli altri pianeti del Sistema Solare e il Sole non rimane che leggere il libro.
 
 ## Riferimento
+
 Adrian Fartade, *A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi*, Rizzoli, 2018. [Amazon]([https://www.amazon.it/gp/product/B07BW9PS59/ref=kinw_myk_ro_title](https://www.amazon.it/gp/product/B07BW9PS59/ref=kinw_myk_ro_title))
 
 > il nostro tempo come umanità è brevissimo e saremo qui solo per un attimo... un battito di ciglia. Non passiamolo a occhi chiusi. Continuiamo a esplorare, a guardare oltre e, soprattutto, continuiamo a meravigliarci e a essere meravigliosi. (Adrian Fartade)
