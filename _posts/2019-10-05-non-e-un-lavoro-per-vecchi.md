@@ -5,7 +5,6 @@ date:   2019-10-05 07:24:04 +0100
 categories: [Libri]
 ---
 ## Premessa
-
 Mia moglie sta portando avanti un progetto imprenditoriale nell'ambito della moda: [Buju](www.buju.it) e per ovvi motivi segue le varie influencer che ruotano intorno a questo mondo.
 
 A volte me lo dimentico ma avendo 37 anni sto vivendo in prima persona un periodo storico interessantissimo: siamo passati da un mondo interamente analogico all'era digitale ed a una velocità impressionante. Le strategie di marketing possono rimanere valide nel tempo ma i canali di comunicazione sono cambiati e così si sono aggiunte ulteriori strategie oltre a quelle classiche.

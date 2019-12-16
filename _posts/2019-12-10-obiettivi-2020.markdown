@@ -47,7 +47,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 - Imparare a programmare su piattaforma Arduino completando gli esercizi base *Progresso 0/10*
 - Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 0/96* [gofluent.com](https://portal.gofluent.com/group/client)
-- Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. *Progresso 0*
-- Imparare un nuovo linguaggio di programmazione.
+- Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. *Progresso 0/1*
+- Imparare un nuovo linguaggio di programmazione. *Progresso 0/1*
 
 > Invece di maledire il buio, prova ad accendere la luce. (Paolo Trabucchi)

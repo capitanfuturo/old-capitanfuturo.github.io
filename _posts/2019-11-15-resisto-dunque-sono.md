@@ -5,7 +5,6 @@ date:   2019-11-15 07:24:04 +0100
 categories: [Libri]
 ---
 ## Premessa
-
 Uno degli obiettivi che mi sono posto quest'anno è quello di tenermi allenato con la corsa. Gli impegni familiari e lavorativi mi permettono di far spazio per circa tre allenamenti a settimana.
 
 Il mondo della corsa anche a livello amatoriale o come nel mio caso di puro mantenimento ti fa sperimentare fisicamente il senso della fatica perché si tratta di un movimento prolungato e senza sosta. 

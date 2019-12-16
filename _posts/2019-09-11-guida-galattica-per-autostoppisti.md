@@ -5,7 +5,6 @@ date:   2019-09-11 19:24:04 +0100
 categories: [Libri]
 ---
 ## Premessa
-
 Quest'estate oltre a godermi delle meritate ferie mi sono dedicato alla lettura di un libro leggero e
 di piacevole lettura. L'ho sempre sentito citare a lavoro per la storia che ruota intorno alla risposta che il super computer Pensiero Profondo restituisce alla _Domanda Fondamentale sulla Vita, sull'Universo e Tutto quanto_ agli scienziati che l'hanno costruito: _42_.
 

@@ -5,7 +5,6 @@ date:   2019-09-05 22:24:04 +0100
 categories: [Libri]
 ---
 ## Premessa
-
 Quest'estate dopo aver acquistato un Kindle 10°gen mi sono dedicato alla lettura. Come primo investimento mi sono regalato un ottimo libro di Adrian Fartade. Se qualcuno non lo conoscesse, penso sia d'obbligo iscriversi al suo canale youtube [link4universe]([https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g](https://www.youtube.com/channel/UCHRTziAevLPgAE9Y5VhSs5g)) e se voleste approfondire la persona dietro ai video di divulgazione spaziale vi consiglio questa intervista di [Breaking Italy]([https://www.youtube.com/watch?v=yCsxuGKBNQw](https://www.youtube.com/watch?v=yCsxuGKBNQw)).
 
 A piedi nudi su Marte narra delle avventure dell'uomo nella scoperta e nella navigazione del sistema solare. Ricco di citazioni della cultura nerd e di aneddoti divertenti delle varie missioni, la narrazione lascia al lettore un sapore di pervadente ottimismo nei confronti dell'umanità e la passione dell'autore per l'astronomia ma in generale per l'Uomo. _"Siate meravigliosi"_ è il suo motto!
