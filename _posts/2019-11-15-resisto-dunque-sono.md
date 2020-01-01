@@ -7,7 +7,7 @@ categories: [Libri]
 ## Premessa
 Uno degli obiettivi che mi sono posto quest'anno è quello di tenermi allenato con la corsa. Gli impegni familiari e lavorativi mi permettono di far spazio per circa tre allenamenti a settimana.
 
-Il mondo della corsa anche a livello amatoriale o come nel mio caso di puro mantenimento ti fa sperimentare fisicamente il senso della fatica perché si tratta di un movimento prolungato e senza sosta. 
+Il mondo della corsa anche a livello amatoriale o come nel mio caso di puro mantenimento ti fa sperimentare fisicamente il senso della fatica perché si tratta di un movimento prolungato e senza sosta.
 
 Altro aspetto interessante che mi piace della corsa è la concentrazione che si riesce a dare al proprio respiro, aspetto che lega questa attività a quella della meditazione. Correre senza cuffiette può essere un'esperienza per rilassarsi mentalmente nonostante lo stress fisico provato.
 
@@ -17,7 +17,7 @@ Pietro Trabucchi, è uno psicologo che si occupa da anni di sport di resistenza.
 
 In questo libro si concentra sul concetto di resilienza psicologica e di come coltivarla per affrontare lo stress della vita portando come esempio l'esperienza sportiva. **Resilienza come capacità personale di resistere alle forze che ci vengono applicate**.
 
-L'idea è che gli elementi di stress, le forze esterne di prima, gli **stressor**, siano fattori esterni che non possano essere evitati ma che possano essere gestiti. 
+L'idea è che gli elementi di stress, le forze esterne di prima, gli **stressor**, siano fattori esterni che non possano essere evitati ma che possano essere gestiti.
 
 A meno di situazioni di pericolo mortale, nelle quali gran parte dei processi celebrali vengono bypassati per rispondere più velocemente al pericolo, la maggior parte degli stressor che affrontiamo oggigiorno sono filtrati dal nostro modo di vedere le cose che ci circondano, da noi, dalla nostra **valutazione cognitiva**. La valutazione cognitiva filtra i danni causati dall'impatto dello stressor e crea quello spazio di azione che ci permette di controllare la situazione, di regolare la nostra **risposta emozionale e comportamentale**.
 

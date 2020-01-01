@@ -37,7 +37,9 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## Lettura
 
-- Leggere almeno 7 libri. *Progresso 0/7*.
+- Leggere almeno 7 libri. *Progresso 1/7*.
+
+1. Johan Cruyff, F.Panzeri, _La mia rivoluzione_, Bompiani, 6 ottobre 2016. [Amazon](https://www.amazon.it/mia-rivoluzione-Lautobiografia-Johan-Cruyff-ebook/dp/B01LWPF3AH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1573489502&sr=8-1)
 
 ## Corsa
 
@@ -45,9 +47,16 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## Lifelong learning
 
-- Imparare a programmare su piattaforma Arduino completando gli esercizi base *Progresso 0/10*
+- Imparare a programmare su piattaforma Arduino completando gli esercizi base *Progresso 3/10*
+
+1. Accensione LED su breadboard. [https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13](https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13)
+2. Modificare intensità della luminosità di un LED (tramite PWM pulse width modulation). [https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11](https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11)
+3. Utilizzo di un potenziometro. [https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro](https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro)
+
 - Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 0/96* [gofluent.com](https://portal.gofluent.com/group/client)
+
 - Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. *Progresso 0/1*
+
 - Imparare un nuovo linguaggio di programmazione. *Progresso 0/1*
 
 > Invece di maledire il buio, prova ad accendere la luce. (Paolo Trabucchi)
