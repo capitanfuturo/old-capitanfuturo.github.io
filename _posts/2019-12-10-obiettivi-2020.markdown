@@ -37,13 +37,14 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## Lettura
 
-- Leggere almeno 7 libri. *Progresso 2/7*.
+- Leggere almeno 7 libri. *Progresso 3/7*.
     1. Johan Cruyff, F.Panzeri, _La mia rivoluzione_, Bompiani, 6 ottobre 2016. [Amazon](https://www.amazon.it/mia-rivoluzione-Lautobiografia-Johan-Cruyff-ebook/dp/B01LWPF3AH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1573489502&sr=8-1).  Leggi la mia recensione [qui]({% post_url 2020-01-01-la-mia-rivoluzione %}).
     2. Massimo Chiriatti, _#Humanless: L'algortimo egoista_, Hoepli, 14 Giugno 2019. [Amazon](https://www.amazon.it/Humanless-Lalgoritmo-egoista-Massimo-Chiriatti-ebook/dp/B081FFLGHC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1578340565&sr=8-1).
+    3. Vaughn Vernon, _Domain Data-Driver Distilled_, Addison-Wesley Professional, 23 maggio 2016. [Amazon](https://www.amazon.it/Domain-Driven-Design-Distilled-English-Vaughn-ebook/dp/B01JJSGE5S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1579193749&sr=8-1).
 
 ## Corsa
 
-- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 1/35 per un totale di 8 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 3/35 per un totale di 17 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ## Lifelong learning
 
@@ -54,7 +55,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 3. Utilizzo di un potenziometro. [https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro](https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro)
 4. Utilizzo di una matrice a LED 8x8 1588BS. [https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix](https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix)
 
-- Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 5/96hh* [gofluent.com](https://portal.gofluent.com/group/client)
+- Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 9/96hh pari al 15%* [gofluent.com](https://portal.gofluent.com/group/client)
 
 - Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. *Progresso 0/1*
 
