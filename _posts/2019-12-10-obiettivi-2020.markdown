@@ -44,16 +44,17 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## Corsa
 
-- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 3/35 per un totale di 17 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 4/35 per un totale di 27 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ## Lifelong learning
 
-- Imparare a programmare su piattaforma Arduino completando gli esercizi base *Progresso 4/10*
+- Imparare a programmare su piattaforma Arduino completando gli esercizi base *Progresso 5/10*
 
 1. Accensione LED su breadboard. [https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13](https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13)
 2. Modificare intensità della luminosità di un LED (tramite PWM pulse width modulation). [https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11](https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11)
 3. Utilizzo di un potenziometro. [https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro](https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro)
 4. Utilizzo di una matrice a LED 8x8 1588BS. [https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix](https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix)
+5. Utilizzo di un registro a scorrimento 8bit SN74HC595N. [https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino)
 
 - Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 9/96hh pari al 15%* [gofluent.com](https://portal.gofluent.com/group/client)
 
