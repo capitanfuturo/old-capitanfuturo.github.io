@@ -3,7 +3,6 @@ layout: post
 title:  ":books: #Humanless. L'algoritmo egoista. (Massimo Chiriatti)"
 date:   2020-02-01 16:24:04 +0100
 categories: [Libri]
-published: false
 ---
 ## Premessa
 Nel 2013, colto da un interesse immotivato sui **meme** che iniziavano ad essere virali in rete andai a cercare chi inventò tale termine: Richard Dawkins nel 1976 nel suo saggio **"Il Gene Egoista"**. Chi come me, vede nei siti e nei social meme a non finire non può immaginare che dietro a tale termine si nasconde una teoria complessa che parte dalla genetica, dal suo elemento base: il gene fino alla controparte della cultura e dell'intelligenza: il meme.

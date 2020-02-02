@@ -44,7 +44,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## Corsa
 
-- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 4/35 per un totale di 27 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 5/35 per un totale di 37 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ## Lifelong learning
 
@@ -56,7 +56,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 4. Utilizzo di una matrice a LED 8x8 1588BS. [https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix](https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix)
 5. Utilizzo di un registro a scorrimento 8bit SN74HC595N. [https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino)
 
-- Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 9/96hh pari al 15%* [gofluent.com](https://portal.gofluent.com/group/client)
+- Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 10/96hh pari al 16%* [gofluent.com](https://portal.gofluent.com/group/client)
 
 - Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. *Progresso 0/1*
 
