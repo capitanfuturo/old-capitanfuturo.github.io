@@ -3,7 +3,7 @@ layout: post
 title:  ":computer: Arduino e il registro a scorrimento SN74HC595N"
 date:   2020-02-15 15:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
 ## Introduzione
 Nel precedente articolo sulla matrice di LED 1588BS ho anticipato che avrei provato ad inserire nel circuito uno shift register da 8 bit per provare come diminuire il numero di porte usate sull'Arduino per pilotare la matrice. Nello starter kit  comprato su Banggood: [UNO Basic Starter Learning Kit](https://www.banggood.com/UNO-Basic-Starter-Learning-Kit-Upgrade-Version-For-Arduino-p-970714.html?rmmds=myorder&cur_warehouse=CN) è presente un registro a scorrimento della Texas Instruments a 8 bit, modello **SN74HC595N**.
