@@ -39,12 +39,12 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 - Leggere almeno 7 libri. *Progresso 3/7*.
     1. Johan Cruyff, F.Panzeri, _La mia rivoluzione_, Bompiani, 6 ottobre 2016. [Amazon](https://www.amazon.it/mia-rivoluzione-Lautobiografia-Johan-Cruyff-ebook/dp/B01LWPF3AH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1573489502&sr=8-1).  Leggi la mia recensione [qui]({% post_url 2020-01-01-la-mia-rivoluzione %}).
-    2. Massimo Chiriatti, _#Humanless: L'algortimo egoista_, Hoepli, 14 Giugno 2019. [Amazon](https://www.amazon.it/Humanless-Lalgoritmo-egoista-Massimo-Chiriatti-ebook/dp/B081FFLGHC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1578340565&sr=8-1).
+    2. Massimo Chiriatti, _#Humanless: L'algortimo egoista_, Hoepli, 14 Giugno 2019. [Amazon](https://www.amazon.it/Humanless-Lalgoritmo-egoista-Massimo-Chiriatti-ebook/dp/B081FFLGHC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1578340565&sr=8-1). Leggi la mia recensione [qui]({% post_url 2020-02-01-l-algoritmo-egoista %}).
     3. Vaughn Vernon, _Domain Data-Driver Distilled_, Addison-Wesley Professional, 23 maggio 2016. [Amazon](https://www.amazon.it/Domain-Driven-Design-Distilled-English-Vaughn-ebook/dp/B01JJSGE5S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1579193749&sr=8-1).
 
 ## Corsa
 
-- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 5/35 per un totale di 37 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 35 corse e almeno 250 Km totali. *Progresso 6/35 per un totale di 46 Km*. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ## Lifelong learning
 
@@ -57,7 +57,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 5. Utilizzo di un registro a scorrimento 8bit SN74HC595N. [https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino)
 6. Funzione di antirimbalzo per pulsante bistabile. [https://github.com/capitanfuturo/arduinoSalad/blob/master/005_button_debounce_led/005_button_debounce_led.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/005_button_debounce_led/005_button_debounce_led.ino)
 
-- Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 10/96hh pari al 16%* [gofluent.com](https://portal.gofluent.com/group/client)
+- Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 16/96hh pari al 14%* [gofluent.com](https://portal.gofluent.com/group/client)
 
 - Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. *Progresso 0/1*
 

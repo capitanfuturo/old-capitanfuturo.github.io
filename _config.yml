@@ -26,12 +26,18 @@ rss: feed.xml
 
 show_excerpts: true
 
+ekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-9564228-3        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
