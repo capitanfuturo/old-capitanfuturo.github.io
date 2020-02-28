@@ -68,19 +68,25 @@ Un primo facile esempio è quello di scrivere qualcosa di statico sulla prima ri
 Un secondo esempio alternativo è quello di leggere il testo da scrivere dal monitor seriale di Arduino per poi andarlo a scrivere con la funzionalità di scroll del testo.
 Il codice sorgente è disponibile [qui](https://github.com/capitanfuturo/arduinoSalad/blob/master/008_display_16x2/008_display_16x2.ino).
 
+### Boom Shakalaka: Arduino Quiz
+
+![display](/assets/2020-04-15/arduino-quiz.jpg)
+
+Preso dall'euforia del momento mi sono lanciato nella scrittura di un programma in python (piccolo spoiler sul linguaggio di programmazione che vorrei imparare quest'anno! :grin:) che chiede ad una API REST pubblica una domanda di informatica di tipo sì/no e la scrive sull'Arduino passandogli anche la risposta.
+Alla pressione del tasto rosso = no o giallo = sì confronta il risultato. Tutto il codice è disponibile su questo repository dedicato [arduino-quiz](https://github.com/capitanfuturo/arduino-quiz).  
+
 ## Conclusione
 
-Il display 1602A è un ottimo componente che ci può permettere di mostrare dati e messaggi all'utente e rendere l'Arduino più interattivo.
-Attualmente sto immaginando un gioco con due tasti sì/no per rispondere a delle domande visualizzate sul display e una libreria per caricare dinamicamente le domande... vedremo se vedrà mai la luce questa cosa.
-
+Il display 1602A è un ottimo componente che ci può permettere di mostrare dati e messaggi all'utente e rendere l'Arduino più interattivo. Le possibilità sono davvero illimitate.
 Nel frattempo due piccole considerazioni su quanto visto da tenere a mente sono:
 
-* Attenzione che il messaggio visualizzabile è legato alla RAM del display e mi pare che abbia un limite di 80 byte. Questo significa che bisogna spezzare opportunamente la stringa che si vuole visualizzare.
+* Attenzione che il messaggio visualizzabile è legato alla RAM del display e mi pare che abbia un limite di 80 byte. Questo significa che bisogna spezzare opportunamente la stringa che si vuole visualizzare o comunque pulire in modo opportuno il display.
 * La libreria supporta solo caratteri ASCII. Mi pare ci sia il supporto per solo pochi caratteri custom, altrimenti come successo per il display a LED 8x8 bisognerà mapparsi le sprite di tutti i caratteri che si vogliono gestire.
 
 ## Link utili
 
 * La reference guide è molto ben fatta e si trova su  [https://www.arduino.cc/en/Reference/LiquidCrystal](https://www.arduino.cc/en/Reference/LiquidCrystal).
 * Il datasheet del componente è disponibile qui in formato [PDF](https://www.openhacks.com/uploadsproductos/eone-1602a1.pdf).
+* arduino-quiz [https://github.com/capitanfuturo/arduino-quiz](https://github.com/capitanfuturo/arduino-quiz).
 
 > Gli uomini sono diventati gli strumenti dei loro stessi strumenti. (Henry David Thoreau).
