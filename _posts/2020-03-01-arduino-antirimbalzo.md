@@ -3,7 +3,7 @@ layout: post
 title:  ":computer: Arduino e pulsanti bistabili. La funzione di anti-rimbalzo"
 date:   2020-03-01 18:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
 ## Introduzione
 Aggiungere un pulsante al proprio progetto Arduino può sembrare la cosa più semplice da realizzare, ma se al posto di un pulsante si vuole realizzare un interruttore la cosa si fa leggermente più complicata. In questo articolo parliamo della funzione di anti-rimbalzo da applicare per ottenere un interruttore.
