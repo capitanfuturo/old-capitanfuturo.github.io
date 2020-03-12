@@ -4,10 +4,11 @@ title:  ":floppy_disk: Chocolatey, il package manager per Windows"
 date:   2019-10-16 19:24:04 +0100
 categories: [Software]
 ---
-![Chocolatey_screenshot](/assets/2019-10-16/chocolatey_screenshot.png)
-
+## Premessa
 Con la distribuzione di Windows 10, Microsoft ha introdotto nel suo sistema operativo l'App Store. 
 Il mondo mobile e per prima Apple, che ne ha avuto l'idea, ha inventato questo marketplace integrato nei propri sistemi per l'installazione di software. Questo strumento permette ai publisher migliori o che pagano sponsorizzazioni di essere in vetrina mentre il proprietario della piattaforma può controllarne aspetti di sicurezza e standard applicativi che altrimenti non potrebbe gestire.
+
+![Chocolatey_screenshot](/assets/2019-10-16/chocolatey_screenshot.png)S
 
 I software contengono per natura errori (sono sempre scritti, almeno per ora, da esseri fallibili) e per un produttore di sistemi operativi avere la possibilità di garantire qualità e sicurezza in quello che gli utenti installano è un vantaggio sui competitors, rende l'esperienza più piacevole e permette di far emergere i prodotti migliori rendendo l'esperienza utente più piacevole.
 
