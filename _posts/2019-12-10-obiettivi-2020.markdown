@@ -37,30 +37,31 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## :books: Lettura
 
-- Leggere almeno 7 libri. **Progresso 5/7** :cloud:.
+- Leggere almeno 7 libri. **Progresso 6/7** :sunny:.
     1. Johan Cruyff, F.Panzeri, _La mia rivoluzione_, Bompiani, 6 ottobre 2016. [Amazon](https://www.amazon.it/mia-rivoluzione-Lautobiografia-Johan-Cruyff-ebook/dp/B01LWPF3AH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1573489502&sr=8-1).  Leggi la mia recensione [qui]({% post_url 2020-01-01-la-mia-rivoluzione %}).
     2. Massimo Chiriatti, _#Humanless: L'algortimo egoista_, Hoepli, 14 Giugno 2019. [Amazon](https://www.amazon.it/Humanless-Lalgoritmo-egoista-Massimo-Chiriatti-ebook/dp/B081FFLGHC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1578340565&sr=8-1). Leggi la mia recensione [qui]({% post_url 2020-02-01-l-algoritmo-egoista %}).
     3. Vaughn Vernon, _Domain Data-Driver Distilled_, Addison-Wesley Professional, 23 maggio 2016. [Amazon](https://www.amazon.it/Domain-Driven-Design-Distilled-English-Vaughn-ebook/dp/B01JJSGE5S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1579193749&sr=8-1).
     4. Maik Schmidt, _Il manuale di Arduino: seconda edizione aggiornata (Maker Vol. 3)_, Apogeo. [Amazon](https://www.amazon.it/manuale-Arduino-seconda-edizione-aggiornata-ebook/dp/B00YHEZ9ZQ/ref=tmm_kin_swatch_0?_encoding=UTF8).
     5. Brock Craft, _Creare progetti con Arduino For Dummies: Con 12 progetti facili da realizzare!_, Hoepli. [Amazon](https://www.amazon.it/Creare-progetti-Arduino-Dummies-realizzare-ebook/dp/B00N9SMFQW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1570649798&sr=8-1).
+    6. Parag Khanna, _Il secolo asiatico?_, Fazi, 7 marzo 2019. [Amazon](https://www.amazon.it/secolo-asiatico-Parag-Khanna-ebook/dp/B07NS72KG6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1581343243&sr=8-1).
 
 ## :running: Corsa
 
-- Completare almeno 35 corse e almeno 250 Km totali. **Progresso 6/35 per un totale di 46 Km** :umbrella:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 35 corse e almeno 250 Km totali. **Progresso 7/35 per un totale di 55 Km** :umbrella:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ## :rocket: Lifelong learning
 
 - :computer: Imparare a programmare su piattaforma Arduino completando gli esercizi base **Progresso 7/10** :cloud:.
 
-1. Accensione LED su breadboard. [https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13](https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13)
-2. Modificare intensità della luminosità di un LED (tramite PWM pulse width modulation). [https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11](https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11)
-3. Utilizzo di un potenziometro. [https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro](https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro)
-4. Utilizzo di una matrice a LED 8x8 1588BS. [https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix](https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix)
-5. Utilizzo di un registro a scorrimento 8bit SN74HC595N. [https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino).
-6. Funzione di antirimbalzo per pulsante bistabile. [https://github.com/capitanfuturo/arduinoSalad/blob/master/005_button_debounce_led/005_button_debounce_led.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/005_button_debounce_led/005_button_debounce_led.ino).
+1. Accensione LED su breadboard. [https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13](https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13). Leggi il post [qui]({% post_url 2019-11-01-arduino-prima-esperienza %}).
+2. Modificare intensità della luminosità di un LED (tramite PWM pulse width modulation). [https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11](https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11). Leggi il post [qui]({% post_url 2019-11-01-arduino-prima-esperienza %})
+3. Utilizzo di un potenziometro. [https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro](https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro). Leggi il post [qui]({% post_url 2019-11-01-arduino-prima-esperienza %})
+4. Utilizzo di una matrice a LED 8x8 1588BS. [https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix](https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix). Leggi il post [qui]({% post_url 2020-01-12-arduino-matrice-1588BS %})
+5. Utilizzo di un registro a scorrimento 8bit SN74HC595N. [https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/007_8x8_plus_shift_register/007_8x8_plus_shift_register.ino). Leggi il post [qui]({% post_url 2020-02-15-arduino-shift-register-SN74HC595N %})
+6. Funzione di antirimbalzo per pulsante bistabile. [https://github.com/capitanfuturo/arduinoSalad/blob/master/005_button_debounce_led/005_button_debounce_led.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/005_button_debounce_led/005_button_debounce_led.ino). Leggi il post [qui]({% post_url 2020-03-01-arduino-antirimbalzo %})
 7. Utilizzo di un display 16x2 1602A. [https://github.com/capitanfuturo/arduinoSalad/blob/master/008_display_16x2/008_display_16x2.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/008_display_16x2/008_display_16x2.ino).
 
-- :uk: Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 21/96hh pari al 20%* [gofluent.com](https://portal.gofluent.com/group/client).
+- :uk: Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 39/96hh pari al 37%* [gofluent.com](https://portal.gofluent.com/group/client).
 
 - :wrench:  Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. **Progresso 0/1** :umbrella:
 

@@ -23,13 +23,9 @@ url: "https://capitanfuturo.github.io/" # the base hostname & protocol for your 
 linkedin_username: giuseppecaliendo
 github_username: capitanfuturo
 rss: feed.xml
+google_analytics: UA-9564228-3
 
 show_excerpts: true
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-9564228-3        # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # Build settings
 markdown: kramdown
@@ -37,7 +33,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
