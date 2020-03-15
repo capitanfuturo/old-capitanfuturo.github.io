@@ -3,7 +3,7 @@ layout: post
 title:  ":books: Domain-Driven Design Distilled. (Vaughn Vernon)"
 date:   2020-03-15 18:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 ## Premessa
 Da un paio di mesi sono stato coinvolto in un progetto orientato ai micro-servizi e alla costruzione di una piattaforma per supportare tutti i microservizi corporate del più importante player nella distribuzione di energia elettrica in Italia. Alla base di questa avventura c'è l'acquisizione della teoria del Domain-Driven Design (da ora in poi abbreviato in DDD).
