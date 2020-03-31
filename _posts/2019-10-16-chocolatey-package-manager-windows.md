@@ -5,16 +5,22 @@ date:   2019-10-16 19:24:04 +0100
 categories: [Software]
 ---
 ## Premessa
-Con la distribuzione di Windows 10, Microsoft ha introdotto nel suo sistema operativo l'App Store. 
-Il mondo mobile e per prima Apple, che ne ha avuto l'idea, ha inventato questo marketplace integrato nei propri sistemi per l'installazione di software. Questo strumento permette ai publisher migliori o che pagano sponsorizzazioni di essere in vetrina mentre il proprietario della piattaforma può controllarne aspetti di sicurezza e standard applicativi che altrimenti non potrebbe gestire.
+Con la distribuzione di Windows 10, Microsoft ha introdotto nel suo sistema operativo uno store di applicazioni in stile Google Store, Apple Store e Snap Store.
+Questo genere di strumento permette ai publisher migliori o che pagano sponsorizzazioni di essere in vetrina mentre al proprietario della piattaforma di distribuzione il controllo conpleto degli aspetti di sicurezza e standard applicativi.
 
 ![Chocolatey_screenshot](/assets/2019-10-16/chocolatey_screenshot.png)S
 
-I software contengono per natura errori (sono sempre scritti, almeno per ora, da esseri fallibili) e per un produttore di sistemi operativi avere la possibilità di garantire qualità e sicurezza in quello che gli utenti installano è un vantaggio sui competitors, rende l'esperienza più piacevole e permette di far emergere i prodotti migliori rendendo l'esperienza utente più piacevole.
+Tutto il software può contenere errori e per un produttore di sistemi operativi avere la possibilità di garantire qualità e sicurezza crea quella coerenza nell'esperienza utente la rende più piacevole. Inoltre favorisce l'emergere di prodotti migliori grazie al meccanismo di rating.
 
-Nel mondo GNU/Linux la maggior parte delle distribuzioni più usate hanno sempre offerto all'utenza dei repository di software installabile per la versione e l'architettura CPU utilizzata, e dei comandi per gestire l'installazione. Forse il più famoso per chi è passato per Debian e derivate è [APT](https://it.wikipedia.org/wiki/Advanced_Packaging_Tool) (Advanced Packaging Tool) anche se ultimamente vanno di moda meccanismi cross distro come [flatpak](https://flatpak.org/) e [snapcraft](https://snapcraft.io/). Essendo l'open source un ambiente decentralizzato per natura, apt non può considerarsi un vero marketplace mentre gli ultimi due strumenti citati incarnano meglio il concetto di App Store.
+Nel mondo GNU/Linux la maggior parte delle distribuzioni hanno da sempre offerto all'utenza dei repository di software installabile per la versione e l'architettura CPU utilizzata, e dei comandi per gestirne l'installazione.
 
-Per Windows 7 e successivi esiste un progetto Open Source molto interessante che si chiama [Chocolatey](https://chocolatey.org/). Si tratta di un repository stile APT con integrazione alla linea di comando, come per esempio powershell. Questo approccio permette di costruirsi degli script semplici per installare e replicare l'installazione su diversi computer dello stesso insieme di applicazioni. Di seguito ve ne descriverò brevemente le caratteristiche e come lo uso personalmente.
+Forse il più famoso per chi è passato per Debian e derivate è [APT](https://it.wikipedia.org/wiki/Advanced_Packaging_Tool) (Advanced Packaging Tool) anche se ultimamente vanno di moda meccanismi cross distro come [flatpak](https://flatpak.org/) e [snapcraft](https://snapcraft.io/).
+
+Essendo l'open source un ambiente decentralizzato per natura, apt non può considerarsi un vero marketplace mentre gli ultimi due strumenti citati incarnano meglio il concetto di App Store.
+
+Per Windows 7 e successivi esiste un progetto Open Source molto interessante che si chiama [Chocolatey](https://chocolatey.org/). Si tratta di un repository stile APT con integrazione alla linea di comando, come per esempio powershell.
+
+Questo approccio permette di costruirsi degli script semplici per installare e replicare l'installazione su diversi computer dello stesso insieme di applicazioni. Di seguito ve ne descriverò brevemente le caratteristiche e come l'ho usato.
 
 ## Requisiti
 
@@ -24,14 +30,15 @@ Per Windows 7 e successivi esiste un progetto Open Source molto interessante che
 
 ## Installazione
 
-1. Per installare Chocolatey avviare powershell come amministratore. 
+1. Avviare powershell come amministratore.
 2. Una volta comparso il prompt dei comandi powershell eseguire lo statement qui riportato
 
 ~~~bash
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ~~~
 
-Ora avete chocolatey nel vostro sistema. Per rendere attivo il comando bisogna riavviare la powershell. 
+Ora avete chocolatey nel vostro sistema. Per rendere attivo il comando bisogna riavviare la powershell.
+
 Un primo programma se volete sfruttare chocolatey graficamente o semplicemente per esplorare il repository è l'interfaccia grafica installabile da powershell con il seguente comando
 
 ~~~bash
@@ -61,6 +68,7 @@ Per ovviare a questo si deve eseguire powershell in modalità amministratore ed 
 ~~~bash
 set-executionpolicy remotesigned
 ~~~
+
 e rispondere 'S' alla domanda di prompt.
 
 ## Pro
@@ -79,10 +87,10 @@ e rispondere 'S' alla domanda di prompt.
 
 ## Conclusioni
 
-Chocolatey è una buona soluzione in ambiente Windows per automatizzare in stile Linux l'installazione dei programmi senza scaricarsi gli installer dai vari siti. Nel mio repository GIT trovate la mia configurazione attuale se volete farvi un'idea.
+Chocolatey nasce con una buona intenzione per automatizzare in stile Linux l'installazione dei programmi senza scaricarsi gli installer dai vari siti. Nel mio repository GIT trovate la mia configurazione attuale se volete farvi un'idea.
 L'interfaccia grafica è spartana ma fa il suo dovere e permette di aggiornare selettivamente o massivamente tutto il software installato.
-Probabilmente la versione a pagamento dà più soddisfazioni ma già la versione base è completa per un uso personale.
+Probabilmente la versione a pagamento dà più soddisfazioni ma già la versione base è completa per un uso personale di base.
 
-Ha ancora diversi bug in fase di aggiornamento dei pacchetti che a volte si bloccano per cause sconosciute. Il progetto è interessante anche se lo sconsiglio alemno per adesso come uso quotidiano.
+Ha ancora diversi bug in fase di aggiornamento dei pacchetti che a volte si bloccano per cause sconosciute. Il progetto è interessante ma allo stato attuale lo sconsiglio se avete necessità di installare pacchetti di sviluppo. Spero che il progetto WSL2 venga rilasciato non solo in versione insider di windows 10.
 
 > I bravi programmatori sanno cosa scrivere. I migliori sanno cosa riscrivere (e riusare). (Eric Steven Raymond)

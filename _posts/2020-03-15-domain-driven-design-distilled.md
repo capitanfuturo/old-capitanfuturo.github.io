@@ -6,19 +6,23 @@ categories: [Libri]
 published: true
 ---
 ## Premessa
-Da un paio di mesi sono stato coinvolto in un progetto orientato ai micro-servizi e alla costruzione di una piattaforma per supportare tutti i microservizi corporate del più importante player nella distribuzione di energia elettrica in Italia. Alla base di questa avventura c'è l'acquisizione della teoria del Domain-Driven Design (da ora in poi abbreviato in DDD).
-Eric Evans è il padre della DDD e se siete desiderosi di conoscere tutta la teoria che sta dietro a questa modellazione il consiglio è quello di leggere direttamente _Domain-Driven Design: Tackling Complexity in the Heart of Software_, se invece avete bisogno di iniziare a capire cosa ci stia dietro la modellazione DDD allora il libro _Domain-Driven Design Distilled_ di Vaugh Vernon può fare al caso con alcuni ma che descriverò in seguito.
+Da un paio di mesi sono coinvolto in un progetto orientato ai micro-servizi e alla costruzione di una piattaforma per supportare tutti i microservizi corporate del più importante player nella distribuzione di energia elettrica in Italia. Alla base di questo processo aziendale c'è l'acquisizione e la declinazionesul campo della teoria del Domain-Driven Design (da ora in poi abbreviato in DDD).
+La DDD nasce dalla mente di Eric Evans ed è descritta nel libro _Domain-Driven Design: Tackling Complexity in the Heart of Software_. Per iniziare ad addentrarsi nell'argomento invece ho deciso di partire da _Domain-Driven Design Distilled_ di Vaugh Vernon. Questo testo può fare al caso, con alcuni ma, che descriverò in seguito.
 
 ## Appunti di Domain-Driven Design Distilled
 
-La domain-driven design è un insieme di strumenti che permettono di modellare software; ruota tutto intorno alla modellazione del dominio da descrivere nella maniera più esplicita possibile.
-Tutte le tecniche della DDD hanno come prerequisito una forte componente di cambio organizzativo e non solo concettuale basato sulle seguenti osservazioni:
+La domain-driven design è un insieme di strumenti che permettono di modellare il software. Il fulcro del design è alla modellazione del *dominio* da descrivere nella maniera più esplicita possibile ed è proprio questo concetto il più arduo da spiegare.
+Le tecniche della DDD partono da un prerequisito forte: il cambio organizzativo e non solo concettuale basato sulle seguenti osservazioni nel mondo business reale:
 
-* Lo sviluppo software è considerato un centro di costo e non un centro di profitto.
+* Lo sviluppo del software è considerato un centro di costo e non un centro di profitto.
 * Gli sviluppatori sono spesso orientati alle tecnologie e non al design e al dominio.
-* Il database ha un ruolo troppo centrale e spesso tutto ruota sul modello dati e non sui processi di business.
-* I servizi sono spesso troppo accoppiati
-Non è obiettivo di questo testo coprire ogni aspetto ma l'intento è quello di fornire concetti in maniera veloce e con esempi agli sviluppatori ed architetti che si affacciano a questo modo di modellare software.
+* Il database ha un ruolo troppo centrale e il modello dati tende ad avere più importanza rispetto ai processi di business.
+* I servizi forniti sono spesso troppo accoppiati tra di loro
+
+A partire da queste considerazioni l'autore identifica due modalità di disegno:
+
+1. Strategic design
+2. Tactical design
 
 ### Strategic design
 
@@ -40,7 +44,7 @@ Un Bounded Context è composto da tre livelli:
 
 Dati gli starti di cui sopra è possibile usare il DDD con una qualunque di queste architetture e pattern:
 
-* ***Event-Driven Architecture**; Event Sourcing.
+* **Event-Driven Architecture**; Event Sourcing.
 * Command Query Responsibility Segregation (**CQRS**).
 * **Reactive and Actor Model**.
 * Representational State Transfer (**REST**).

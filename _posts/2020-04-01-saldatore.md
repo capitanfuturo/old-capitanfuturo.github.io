@@ -3,7 +3,7 @@ layout: post
 title:  ":wrench: Imparare a saldare"
 date:   2020-04-01 18:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
 ## Premessa
 Uno degli obiettivi di quest'anno è iniziare a fare pratica con il saldatore a stagno ed in questo un componente per Arduino contenuto nel KIT comprato a inizio anno mi ha dato l'occasione per cimentarmi in questa avventura.
