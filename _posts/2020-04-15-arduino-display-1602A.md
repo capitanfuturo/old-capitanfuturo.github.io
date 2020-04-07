@@ -85,8 +85,9 @@ Nel frattempo due piccole considerazioni su quanto visto da tenere a mente sono:
 
 ## Link utili
 
-* La reference guide è molto ben fatta e si trova su  [https://www.arduino.cc/en/Reference/LiquidCrystal](https://www.arduino.cc/en/Reference/LiquidCrystal).
+* La reference ufficiale di Arduino  [https://www.arduino.cc/en/Reference/LiquidCrystal](https://www.arduino.cc/en/Reference/LiquidCrystal).
 * Il datasheet del componente è disponibile qui in formato [PDF](https://www.openhacks.com/uploadsproductos/eone-1602a1.pdf).
 * arduino-quiz [https://github.com/capitanfuturo/arduino-quiz](https://github.com/capitanfuturo/arduino-quiz).
+* 7 Tips using a digital display [https://www.baldengineer.com/arduino-lcd-display-tips.html](https://www.baldengineer.com/arduino-lcd-display-tips.html).
 
 > Gli uomini sono diventati gli strumenti dei loro stessi strumenti. (Henry David Thoreau).

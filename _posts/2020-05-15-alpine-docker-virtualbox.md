@@ -14,7 +14,7 @@ Avere a disposizione una macchina virtuale leggera che permetta di sperimentare 
 
 Questa soluzione aggiunge uno strato ulteriore al motore docker ma permette di poter provare e riprovare senza fare danni. Useremo poi una connessione via ssh dal nostro terminale in modo da avere a disposizone il copia incolla ed altre facilities
 
-## Occorente
+## Occorrente
 
 1. Virtualbox installato. [https://www.virtualbox.org/](https://www.virtualbox.org/)
 2. Immagine .iso di Alpine Linux. Ho scelto la versione virtual che pesa solo 40 MB. [https://alpinelinux.org/downloads/](https://alpinelinux.org/downloads/)
@@ -173,6 +173,7 @@ Ora che abbiamo l'indirizzo possiamo tranquillamente collegarci via ssh con un c
 * AWS SQS: [https://github.com/roribio/alpine-sqs](https://github.com/roribio/alpine-sqs)
 * AWS Kinesis: [https://github.com/vsouza/docker-Kinesis-local](https://github.com/vsouza/docker-Kinesis-local)
 * Awesome Compose. Una lista di servizi web e non solo. [https://github.com/docker/awesome-compose](https://github.com/docker/awesome-compose)
+* InfluxDB + Grafana + Telegraf [https://github.com/philhawthorne/docker-influxdb-grafana](https://github.com/philhawthorne/docker-influxdb-grafana)
 
 ## Riferimenti
 
