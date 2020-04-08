@@ -75,6 +75,8 @@ Il codice sorgente è disponibile [qui](https://github.com/capitanfuturo/arduino
 Preso dall'euforia del momento mi sono lanciato nella scrittura di un programma in python (piccolo spoiler sul linguaggio di programmazione che vorrei imparare quest'anno! :grin:) che chiede ad una API REST pubblica una domanda di informatica di tipo sì/no e la scrive sull'Arduino passandogli anche la risposta.
 Alla pressione del tasto rosso = no o giallo = sì confronta il risultato. Tutto il codice è disponibile su questo repository dedicato [arduino-quiz](https://github.com/capitanfuturo/arduino-quiz).  
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ueqo8mhZ1yI" target="_blank"><img src="http://img.youtube.com/vi/ueqo8mhZ1yI/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180"></a>
+
 ## Conclusione
 
 Il display 1602A è un ottimo componente che ci può permettere di mostrare dati e messaggi all'utente e rendere l'Arduino più interattivo. Le possibilità sono davvero illimitate.
