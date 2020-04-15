@@ -3,7 +3,7 @@ layout: post
 title:  ":computer: Arduino e il display 16x2 1602A"
 date:   2020-04-15 18:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
 ## Premessa
 Studiando i vari componenti che si possono interfacciare con Arduino il display è quello che permette di comunicare visivamente con l'utente. In particolare nel kit acquistato a fine anno scorso su Bangood: [UNO Basic Starter Learning Kit](https://www.banggood.com/UNO-Basic-Starter-Learning-Kit-Upgrade-Version-For-Arduino-p-970714.html?rmmds=myorder&cur_warehouse=CN) è possibile fare pratica con un display 16x2 di tipo 1602A (versione A1 del 2019).
