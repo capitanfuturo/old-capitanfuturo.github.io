@@ -3,7 +3,7 @@ layout: post
 title:  ":books: Il secolo asiatico? (Parag Khanna)"
 date:   2020-05-01 16:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 ## Premessa
 Da fine Febbraio 2020 la parola su tutti i giornali è COVID-19 ed è una strana coincendenza per me aver letto questo libro di Khanna che porta all'attenzione del lettore il ruolo sempre più centrale dell'Asia nelle sorti del mondo del XXI secolo.
