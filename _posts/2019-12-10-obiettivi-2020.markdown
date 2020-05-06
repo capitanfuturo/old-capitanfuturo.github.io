@@ -52,7 +52,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## :rocket: Lifelong learning
 
-- :computer: Imparare a programmare su piattaforma Arduino completando gli esercizi base **Progresso 9/10** :cloud:.
+- :computer: Imparare a programmare su piattaforma Arduino completando gli esercizi base **Progresso 10/10** :sunny:.
 
 1. Accensione LED su breadboard. [https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13](https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13). Leggi il post [qui]({% post_url 2019-11-01-arduino-prima-esperienza %}).
 2. Modificare intensità della luminosità di un LED (tramite PWM pulse width modulation). [https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11](https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11). Leggi il post [qui]({% post_url 2019-11-01-arduino-prima-esperienza %})
@@ -63,6 +63,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 7. Utilizzo di un display 16x2 1602A. [https://github.com/capitanfuturo/arduinoSalad/blob/master/008_display_16x2/008_display_16x2.ino](https://github.com/capitanfuturo/arduinoSalad/blob/master/008_display_16x2/008_display_16x2.ino).
 8. Utilizzo di un servo motore Tower PRO SG90. [https://github.com/capitanfuturo/arduinoSalad/tree/master/009_servo_sg90](https://github.com/capitanfuturo/arduinoSalad/tree/master/009_servo_sg90).
 9. Utilizzo del motore passo-passo (stepper) 28BYJ-48. [https://github.com/capitanfuturo/arduinoSalad/tree/master/010_stepper_28BYJ-48](https://github.com/capitanfuturo/arduinoSalad/tree/master/010_stepper_28BYJ-48).
+10. Utilizzo di un buzzer e scrittura di una libreria dedicata. [https://github.com/capitanfuturo/arduino-coffin-buzzer](https://github.com/capitanfuturo/arduino-coffin-buzzer).
 
 - :uk: Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 43/96hh pari al 44%* [gofluent.com](https://portal.gofluent.com/group/client).
 
