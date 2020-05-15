@@ -3,7 +3,7 @@ layout: post
 title:  ":floppy_disk: Installare Alpine Linux su VirtualBox con Docker"
 date:   2020-05-15 19:24:04 +0100
 categories: [Software]
-published: false
+published: true
 ---
 ## Premessa
 Da qualche mese sto imparando e mi sto formando sul mondo [Kubernates](https://kubernetes.io/) e sul modo dei container [Docker](https://www.docker.com/). Per fare pratica con questi strumenti mi sono cimentato nella configurazione ed installazione di una macchina virtuale basata su [Alpine Linux](https://alpinelinux.org/downloads/) in VirtualBox. Riporto qui degli appunti per non dimenticarmene.

@@ -48,7 +48,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## :running: Corsa
 
-- Completare almeno 35 corse e almeno 250 Km totali. **Progresso 7/35 per un totale di 55 Km** :umbrella:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 35 corse e almeno 250 Km totali. **Progresso 9/35 per un totale di 69 Km** :umbrella:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ## :rocket: Lifelong learning
 
@@ -65,7 +65,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 9. Utilizzo del motore passo-passo (stepper) 28BYJ-48. [https://github.com/capitanfuturo/arduinoSalad/tree/master/010_stepper_28BYJ-48](https://github.com/capitanfuturo/arduinoSalad/tree/master/010_stepper_28BYJ-48).
 10. Utilizzo di un buzzer e scrittura di una libreria dedicata. [https://github.com/capitanfuturo/arduino-coffin-buzzer](https://github.com/capitanfuturo/arduino-coffin-buzzer).
 
-- :uk: Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 43/96hh pari al 44%* [gofluent.com](https://portal.gofluent.com/group/client).
+- :uk: Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese *Progresso 48/96hh pari al 50%* [gofluent.com](https://portal.gofluent.com/group/client).
 
 - :wrench:  Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. **Progresso 1/1** :sunny:
 
