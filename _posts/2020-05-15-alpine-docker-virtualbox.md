@@ -125,7 +125,7 @@ Una volta avviata la macchina bisognerà configurare la eth1 come detto sopra co
 
 ~~~bash
 nano /etc/network/interfaces
-~~~bash
+~~~
 
 ed andando ad impostare il file come segue:
 

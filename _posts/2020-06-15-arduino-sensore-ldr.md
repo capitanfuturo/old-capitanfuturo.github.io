@@ -30,7 +30,7 @@ qui il codice, disponibile anche su [https://github.com/capitanfuturo/arduinoSal
 /*
  * MIT License - Copyright (c) 2020 Giuseppe Caliendo
  *
- * Utilizzo di un sensore LDR per costruire un crepuscolare. 
+ * Utilizzo di un sensore LDR per costruire un crepuscolare.
  */
 const unsigned int LDR_PIN = A0; // LDR è collegato ad un PIN analogico
 const unsigned int LED_PIN = 9; // PIN collegato al LED

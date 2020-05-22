@@ -9,8 +9,8 @@ categories: [Hardware]
 
 ![Arduino_UNO](/assets/2019-11-01/000.jpg)
 
-Arduino invece è una scheda costruita intorno ad un microcontrollore ATmega pensato principalmente per la protopizzazione elettronica e quindi dal mettere mano a circuiti non si può scappare. Mi sono posto quindi tra gli obiettivi di quest'anno di riprendere in mano gli argomenti solo studiati e mai messi in pratica e di studiare questa piattaforma divertendomi un pò alla sera dopo aver messo a letto i piccoli.
- 
+Arduino invece è una scheda costruita intorno ad un **microcontrollore ATmega** pensato principalmente per la protopizzazione elettronica e quindi dal mettere mano a circuiti non si può scappare. Mi sono posto quindi tra gli obiettivi di quest'anno di riprendere in mano gli argomenti solo studiati e mai messi in pratica e di studiare questa piattaforma divertendomi un pò alla sera dopo aver messo a letto i piccoli.
+
 Scriverò alcuni post su questo blog con dei consigli, senza entrare troppo nel dettaglio visto che di materiale è piena la rete, indicherò invece dove trovare informazioni interessanti e come muoversi da neofiti.
 
 ## Introduzione
@@ -18,7 +18,7 @@ Scriverò alcuni post su questo blog con dei consigli, senza entrare troppo nel 
 Arduino è stato ideato e sviluppato nel 2003 da alcuni membri dell'Interaction Design Institute Ivrea, istituto fondato dalla Olivetti e da Telecom Italia, come strumento per la prototipazione rapida (e poi dicono che in Italia non si fa tecnologia).
 Il nome potrebbe evocare le gesta del condottiero italiano degli anni 1000 ma invece si rifà al nome del bar frequentato dai fondatori del progetto.
 Arduino è completamente open source, sia a livello software per quanto riguarda l'ambiente di sviluppo integrato sia per l'hardware e in quest'ultimo campo è stato uno delle prime manifestazioni del movimento open source in ambito non software.
-Il team di Arduino è composto da Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, e David Mellis.
+Il team di Arduino è composto da **Massimo Banzi**, David Cuartielles, Tom Igoe, Gianluca Martino, e David Mellis.
 
 ## Materiale usato
 
@@ -56,19 +56,19 @@ Per mantenere traccia degli esercizi fatti e di eventuali progetti personali con
 
 ### Esercizio #1 Accensione e spegnimento del LED integrato nel PIN 13
 
-Al PIN digitale 13 di Arduino UNO è associato un LED itnegrato alla scheda già predisposto con resistenza e circuito di sicurezza. Il primo esercizio che non necessita di null'altro che di Arduino è proprio questo.
+Al PIN digitale 13 di Arduino UNO è associato un LED integrato alla scheda già predisposto con resistenza e circuito di sicurezza. Il primo esercizio che non necessita di null'altro che di Arduino è proprio questo.
 
 ![LED_13](/assets/2019-11-01/001_led13.png)
 
 #### Variante 1.1
 
-Utilizzare una breadboard ed installaci sopra un led di quelli presenti nel kit e ed una resistenza sfruttando la legge di Ohm: V = R x i per non bruciare il led.
+Utilizzare una breadboard ed installaci sopra un led di quelli presenti nel kit e ed una resistenza sfruttando **la legge di Ohm: V = R x i** per non bruciare il led.
 
 [https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13](https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13)
 
 #### Variante 1.2
 
-Usare il comando analogWrite() ed un pin digitale dotato della caratteristica [Pulse-width_modulation](https://it.wikipedia.org/wiki/Pulse-width_modulation) per modificare la luminosità del led.
+Usare il comando analogWrite() ed un pin digitale dotato della caratteristica **[Pulse-width_modulation](https://it.wikipedia.org/wiki/Pulse-width_modulation)** per modificare la luminosità del led.
 
 [https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11](https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11)
 
@@ -92,7 +92,7 @@ In ogni caso l'idea dell'esercizio è quella di creare con una striscia di 10 le
 
 #### Variante 2.1
 
-Variare la velocità dell'effetto luminoso utilizzando un potenziometro ed un'uscita analogica
+Variare la velocità dell'effetto luminoso utilizzando un **potenziometro** ed un'uscita analogica
 
 [https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro](https://github.com/capitanfuturo/arduinoSalad/tree/master/003_10led_potenziometro)
 
