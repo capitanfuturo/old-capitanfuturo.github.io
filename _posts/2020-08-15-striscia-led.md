@@ -150,3 +150,5 @@ void rgb(int red, int green, int blue) {
 
 Devo ammettere che dopo una decina di esperimenti con Arduino provando ad utilizzare i diversi sensori e componenti a mia disposizione si inizia a capire come mettere insieme i fari attrezzi dalla cassetta di esperienze per dare sfogo all propria creatività.
 Mi sono proprio divertito a recuperare questa striscia LED rotta.
+
+> Nessuno in fatto d’ingegno sa precisamente quanto ne ha: il bello è che ognuno si crede più ricco di quello che è, e che spesso i più poveri sono proprio quelli che sono più soddisfatti. (Stanislas de Boufflers)
