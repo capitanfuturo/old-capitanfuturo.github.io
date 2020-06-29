@@ -7,7 +7,6 @@ published: false
 ---
 
 ## Introduzione
-
 Un altro componente che non può mancare nella cassetta degli attrezzi di un maker è l'uso di buzzer per produrre suoni con il nostro arduino. In questo post cercherò di addentrarmi anche nelle logiche di disegno e programmazione di una libreria per Arduino.
 
 ## Occorrente
