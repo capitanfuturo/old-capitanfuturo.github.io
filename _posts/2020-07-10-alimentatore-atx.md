@@ -3,7 +3,7 @@ layout: post
 title:  ":wrench: Convertire un alimentatore ATX in un alimentatore da banco"
 date:   2020-07-10 19:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
 ## Premessa
 Ammetto sinceramente che Arduino mi sta appassionando e nonostante abbia bruciato un paio di motorini e una scheda di controllo di velocità di un motore a 4 fasi, la voglia di sperimentare rimane.
