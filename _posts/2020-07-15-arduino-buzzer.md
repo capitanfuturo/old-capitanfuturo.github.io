@@ -3,9 +3,8 @@ layout: post
 title:  ":computer: Coffin meme: Arduino e i buzzer. Scrivere una libreria"
 date:   2020-07-15 18:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
-
 ## Introduzione
 Un altro componente che non può mancare nella cassetta degli attrezzi di un maker è l'uso di buzzer per produrre suoni con il nostro arduino. In questo post cercherò di addentrarmi anche nelle logiche di disegno e programmazione di una libreria per Arduino.
 

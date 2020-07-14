@@ -44,7 +44,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
     4. Maik Schmidt, _Il manuale di Arduino: seconda edizione aggiornata (Maker Vol. 3)_, Apogeo. [Amazon](https://www.amazon.it/manuale-Arduino-seconda-edizione-aggiornata-ebook/dp/B00YHEZ9ZQ/ref=tmm_kin_swatch_0?_encoding=UTF8).
     5. Brock Craft, _Creare progetti con Arduino For Dummies: Con 12 progetti facili da realizzare!_, Hoepli. [Amazon](https://www.amazon.it/Creare-progetti-Arduino-Dummies-realizzare-ebook/dp/B00N9SMFQW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1570649798&sr=8-1).
     6. Parag Khanna, _Il secolo asiatico?_, Fazi, 7 marzo 2019. [Amazon](https://www.amazon.it/secolo-asiatico-Parag-Khanna-ebook/dp/B07NS72KG6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1581343243&sr=8-1). Leggi la mia recensione [qui]({% post_url 2020-05-01-il-secolo-asiatico %}).
-    7. Federico Faggin, _Silicio_, Mondadori, 30 Aprile 2019. [Amazon](https://www.amazon.it/gp/product/B07Q3C95G6/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1).
+    7. Federico Faggin, _Silicio_, Mondadori, 30 Aprile 2019. [Amazon](https://www.amazon.it/gp/product/B07Q3C95G6/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1). Leggi la mia recensione [qui]({% post_url 2020-07-01-silicio %}).
     8. Adrian Fartade, _Su Nettuno piovono diamanti_, Rizzoli, 12 Marzo 2019. [Amazon](https://www.amazon.it/Nettuno-piovono-diamanti-Adrian-Fartade-ebook/dp/B07P8BY7JT/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1592421013&sr=8-1).
 
 ## :running: Corsa
