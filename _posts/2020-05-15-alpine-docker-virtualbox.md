@@ -167,6 +167,22 @@ service sshd restart
 
 Ora che abbiamo l'indirizzo possiamo tranquillamente collegarci via ssh con un client come PuTTY.
 
+## EXTRA: Mettiamo un po' di AWS nella nostra VM
+
+Giocando con la macchina virtuale appena installata si possono fare cose molto interessanti come quella di mettere in piedi un ambiente di prova dei servizi Amazon AWS. Per fare ciò possiamo sfruttare un progetto molto interesante chiamato [localstack](https://github.com/localstack/localstack).
+L'istallazione avviene con i seguenti comandi da terminale:
+
+~~~bash
+apk add groff less
+
+pip install localstack
+pip install awscli-local
+
+localstack start
+~~~
+
+A questo punto potete usare la CLI awslocal per configurare i containers dei servizi mock di AWS.
+
 ## Elenco immagini docker utili
 
 * Tutti i servizi AWS in un'unica immagine docker: [https://github.com/localstack/localstack](https://github.com/localstack/localstack)

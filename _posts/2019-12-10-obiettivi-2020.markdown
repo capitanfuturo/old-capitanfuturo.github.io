@@ -49,7 +49,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## :running: Corsa
 
-- Completare almeno 35 corse e almeno 250 Km totali. **Progresso 20/35 per un totale di 152 Km** :umbrella:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 35 corse e almeno 250 Km totali. **Progresso 26/35 per un totale di 192 Km** :umbrella:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ## :rocket: Lifelong learning
 
@@ -68,8 +68,8 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 - :uk: Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese **Progresso 57/96hh pari al 54%** :umbrella:. [gofluent.com](https://portal.gofluent.com/group/client).
 
-- :wrench:  Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. **Progresso 1/1** :sunny:
+- :wrench:  Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. **Progresso 1/1** :sunny:. Qui l'[esperienza]({% post_url 2020-04-01-saldatore %}).
 
-- :space_invader: Imparare un nuovo linguaggio di programmazione. **Progresso 0/1** :umbrella:
+- :space_invader: Imparare un nuovo linguaggio di programmazione. **Progresso 1/1 TypeScript + JavaScript ES6** :sunny:
 
 > Invece di maledire il buio, prova ad accendere la luce. (Paolo Trabucchi)
