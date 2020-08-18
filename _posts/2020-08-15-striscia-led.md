@@ -3,7 +3,7 @@ layout: post
 title:  ":computer: Pilotare una striscia LED con Arduino"
 date:   2020-08-15 18:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
 ## Premessa
 Dietro al televisore da circa un anno uso una striscia a LED per migliorare la piacevolezza della visione anche con le luci spente. La retroilluminazione del televisore stanca meno la vista e dà anche un bel aspetto all'ambiente.
