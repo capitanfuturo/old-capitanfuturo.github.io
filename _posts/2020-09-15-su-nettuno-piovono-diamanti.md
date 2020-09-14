@@ -3,7 +3,7 @@ layout: post
 title:  ":books: Su Nettuno piovono diamanti (Adrian Fartade)"
 date:   2019-09-15 22:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 ## Premessa
 Dopo aver letto il primo libro di Adrian Fartade, A piedi nudi su Marte, ed essere riuscito a vederlo dal vivo il Novembre scorso a Padova grazie al [Mensa Italia](https://www.mensa.it/2019/10/2069-un-secolo-di-luna/) non potevo non leggere la sua seconda opera che narra delle esplorazioni spaziali da Giove fino al confine del sistema solare.
