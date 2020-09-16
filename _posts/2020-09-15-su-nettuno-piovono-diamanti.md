@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ":books: Su Nettuno piovono diamanti (Adrian Fartade)"
-date:   2019-09-15 22:24:04 +0100
+date:   2020-09-15 22:24:04 +0100
 categories: [Libri]
 published: true
 ---
