@@ -111,15 +111,19 @@ Nel mio caso i collegamenti sono quindi stati:
 
 ## Software
 
-Tutto il codice sorgente è disponbile su github, [Spritzino](https://github.com/capitanfuturo/spritzino). Per avere una idea dello schema logico del programma ho disegnato questo:
+Tutto il codice sorgente è disponbile su github, **[Spritzino](https://github.com/capitanfuturo/spritzino)**. Per avere una idea dello schema logico del programma ho disegnato questo:
 
 ![flow](/assets/2020-10-15/sw_flow.png)
 
 ## Link Utili
 
-1. [Spritzino](https://github.com/capitanfuturo/spritzino)
-2. [L293ED motor shield tutorial](https://electropeak.com/learn/use-arduino-l293d-motor-driver-shield-tutorial/)
-3. [Hacker Shack](https://www.hackster.io/hackershack/smart-bartender-5c430e)
+* [Spritzino](https://github.com/capitanfuturo/spritzino)
+* [L293ED motor shield tutorial](https://electropeak.com/learn/use-arduino-l293d-motor-driver-shield-tutorial/)
+* [Hacker Shack](https://www.hackster.io/hackershack/smart-bartender-5c430e)
+* [L293D video](https://www.youtube.com/watch?v=HW1VTOLAXgE)
+* [Instructables tutorial by codebender_cc](https://www.instructables.com/id/How-to-use-the-L293D-Motor-Driver-Arduino-Tutorial/)
+* [AFMotor library](https://learn.adafruit.com/adafruit-motor-shield/downloads)
+* [Tutorial by Great Scott](https://blog.arduino.cc/2017/12/12/this-diy-machine-mixes-your-favorite-three-ingredient-cocktail/)
 
 > Grande è la fortuna di colui che possiede una buona bottiglia, un buon libro, un buon amico.
 (Molière)

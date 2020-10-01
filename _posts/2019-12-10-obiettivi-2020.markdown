@@ -37,7 +37,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## :books: Lettura
 
-- Leggere almeno 7 libri. **Progresso 8/7** :sunny:.
+- Leggere almeno 7 libri. **Progresso 9/7** :sunny:.
     1. Johan Cruyff, F.Panzeri, _La mia rivoluzione_, Bompiani, 6 ottobre 2016. [Amazon](https://www.amazon.it/mia-rivoluzione-Lautobiografia-Johan-Cruyff-ebook/dp/B01LWPF3AH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1573489502&sr=8-1).  Leggi la mia recensione [qui]({% post_url 2020-01-01-la-mia-rivoluzione %}).
     2. Massimo Chiriatti, _#Humanless: L'algortimo egoista_, Hoepli, 14 Giugno 2019. [Amazon](https://www.amazon.it/Humanless-Lalgoritmo-egoista-Massimo-Chiriatti-ebook/dp/B081FFLGHC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1578340565&sr=8-1). Leggi la mia recensione [qui]({% post_url 2020-02-01-l-algoritmo-egoista %}).
     3. Vaughn Vernon, _Domain Data-Driver Distilled_, Addison-Wesley Professional, 23 maggio 2016. [Amazon](https://www.amazon.it/Domain-Driven-Design-Distilled-English-Vaughn-ebook/dp/B01JJSGE5S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1579193749&sr=8-1). Leggi la mia recensione [qui]({% post_url 2020-03-15-domain-driven-design-distilled %})
@@ -46,6 +46,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
     6. Parag Khanna, _Il secolo asiatico?_, Fazi, 7 marzo 2019. [Amazon](https://www.amazon.it/secolo-asiatico-Parag-Khanna-ebook/dp/B07NS72KG6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1581343243&sr=8-1). Leggi la mia recensione [qui]({% post_url 2020-05-01-il-secolo-asiatico %}).
     7. Federico Faggin, _Silicio_, Mondadori, 30 Aprile 2019. [Amazon](https://www.amazon.it/gp/product/B07Q3C95G6/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1). Leggi la mia recensione [qui]({% post_url 2020-07-01-silicio %}).
     8. Adrian Fartade, _Su Nettuno piovono diamanti_, Rizzoli, 12 Marzo 2019. [Amazon](https://www.amazon.it/Nettuno-piovono-diamanti-Adrian-Fartade-ebook/dp/B07P8BY7JT/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1592421013&sr=8-1).
+    9. Daniel Goleman, _Intelligenza Emotiva: Che cos'è e perchè può renderci felici_, Rizzoli, 25 Maggio 2011. [Amazon](https://www.amazon.it/Intelligenza-emotiva-Daniel-Goleman/dp/8817050164/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=).
 
 ## :running: Corsa
 
@@ -53,7 +54,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## :rocket: Lifelong learning
 
-- :computer: Imparare a programmare su piattaforma Arduino completando gli esercizi base **Progresso 10/10** :sunny:.
+- :computer: Imparare a programmare su piattaforma Arduino completando gli esercizi base **Progresso 11/10** :sunny:.
 
 1. Accensione LED su breadboard. [https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13](https://github.com/capitanfuturo/arduinoSalad/tree/master/001_led_pin13). Leggi il post [qui]({% post_url 2019-11-01-arduino-prima-esperienza %}).
 2. Modificare intensità della luminosità di un LED (tramite PWM pulse width modulation). [https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11](https://github.com/capitanfuturo/arduinoSalad/tree/master/002_analogWrite_pin11). Leggi il post [qui]({% post_url 2019-11-01-arduino-prima-esperienza %})
@@ -65,6 +66,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 8. Utilizzo di un servo motore Tower PRO SG90. [https://github.com/capitanfuturo/arduinoSalad/tree/master/009_servo_sg90](https://github.com/capitanfuturo/arduinoSalad/tree/master/009_servo_sg90).
 9. Utilizzo del motore passo-passo (stepper) 28BYJ-48. [https://github.com/capitanfuturo/arduinoSalad/tree/master/010_stepper_28BYJ-48](https://github.com/capitanfuturo/arduinoSalad/tree/master/010_stepper_28BYJ-48).
 10. Utilizzo di un buzzer e scrittura di una libreria dedicata. [https://github.com/capitanfuturo/arduino-coffin-buzzer](https://github.com/capitanfuturo/arduino-coffin-buzzer).
+11. Spritzino, an Arduino based bartender. [https://github.com/capitanfuturo/spritzino](https://github.com/capitanfuturo/spritzino).
 
 - :uk: Migliorare il mio inglese sfruttando la piattaforma messa a disposizione dalla azienda in cui lavoro per almeno 8 ore al mese **Progresso 57/96hh pari al 54%** :umbrella:. [gofluent.com](https://portal.gofluent.com/group/client).
 
