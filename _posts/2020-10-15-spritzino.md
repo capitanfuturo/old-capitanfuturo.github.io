@@ -3,7 +3,7 @@ layout: post
 title:  ":computer: Spritzino: Arduino smart bartender"
 date:   2020-10-15 18:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
 ## Premessa
 Da quasi un anno ho iniziato ad interessarmi al mondo della programmazione di schede per protopizzazione Arduino. Ho completato diversi esercizi basilari che ho raccolto nel repository [arduino salad](https://github.com/capitanfuturo/arduinoSalad). Questi esperimenti compongono una valida cassetta degli sttrezzi che permette di lanciarsi su progetti più sfidanti e così è Spritzino.
