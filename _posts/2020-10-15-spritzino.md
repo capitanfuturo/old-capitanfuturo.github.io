@@ -115,6 +115,16 @@ Tutto il codice sorgente è disponbile su github, **[Spritzino](https://github.c
 
 ![flow](/assets/2020-10-15/sw_flow.png)
 
+## Risulto finale
+
+Lascio qui delle foto del primo prototipo:
+
+![1](/assets/2020-10-15/1.jpg)
+
+![2](/assets/2020-10-15/2.jpg)
+
+![3](/assets/2020-10-15/3.jpg)
+
 ## Link Utili
 
 * [Spritzino](https://github.com/capitanfuturo/spritzino)

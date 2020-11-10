@@ -3,7 +3,7 @@ layout: post
 title:  ":books: Intelligenza Emotiva: Che cos'è e perchè può renderci felici (Daniel Goleman)"
 date:   2020-11-01 22:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 
 ## Premessa

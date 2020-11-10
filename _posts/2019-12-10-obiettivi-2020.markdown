@@ -50,7 +50,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 ## :running: Corsa
 
-- Completare almeno 35 corse e almeno 250 Km totali. **Progresso 30/35 per un totale di 223 Km** :umbrella:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 35 corse e almeno 250 Km totali. **Progresso 35/35 per un totale di 262 Km** :sunny:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ## :rocket: Lifelong learning
 
@@ -72,6 +72,6 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 - :wrench:  Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. **Progresso 1/1** :sunny:. Qui l'[esperienza]({% post_url 2020-04-01-saldatore %}).
 
-- :space_invader: Imparare un nuovo linguaggio di programmazione. **Progresso 1/1 TypeScript + JavaScript ES6** :sunny:
+- :space_invader: Imparare un nuovo linguaggio di programmazione. **Progresso 2/1 TypeScript + JavaScript ES6 +PHP** :sunny:
 
 > Invece di maledire il buio, prova ad accendere la luce. (Paolo Trabucchi)
