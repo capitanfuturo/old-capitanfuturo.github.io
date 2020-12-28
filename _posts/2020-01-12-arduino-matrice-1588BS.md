@@ -51,7 +51,7 @@ Qui sotto una foto.
 
 ### Un esempio su GitHub
 
-Se a qualcuno può essere utile lascio il link del mio esercizio su GitHub: [https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix](https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix). In questo esempio uso la matrice di LED per disegnare uno smile sorridente.
+Se a qualcuno può essere utile lascio il link del mio esercizio su GitHub: [https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix_1588BS](https://github.com/capitanfuturo/arduinoSalad/tree/master/004_8x8_led_matrix_1588BS). In questo esempio uso la matrice di LED per disegnare uno smile sorridente.
 
 ## Conclusione
 
