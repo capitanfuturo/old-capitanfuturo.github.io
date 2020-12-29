@@ -5,9 +5,7 @@ date:   2021-01-02 22:24:04 +0100
 categories: [Libri]
 published: false
 ---
-
 ## Premessa
-
 Partendo dalla definizione che i curatori danno del libro stesso: _Pensa e arricchisci te stesso è la prima filosofia dell'autorealizzazione_. Un pietra miliare per chi è affascinato dal processo di miglioramento continuo che si può percorrere personalemente.
 
 L'obiettivo del libro è chiaro: come diventare ricco!
@@ -48,6 +46,7 @@ Alcuni spunti a caldo:
 - Non si fa nulla da soli, ma ci si deve circondare solo di persone dello stesso master mind.
 
 ## Conclusione
+
 Napoleon Hill racconta in modo molto pragmatico come ragigungere il successo economico con un metodo "scientifico".
 
 Non ho voluto fare uno spoiler del libro ma ho preferito segnarmi qui gli argomenti in modo che possa riprenderli man mano che se ne randa necessario.

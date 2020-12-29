@@ -53,7 +53,7 @@ Per i miei esercizi ho usato la libreria standard [LiquidCrystal](https://www.ar
 
 ## Cablaggio con Arduino
 
-Per il cablaggio ho utilizzato lo schema base descritto nella reference ufficiale di Arduino e disponibile [qui](https://www.arduino.cc/en/Tutorial/HelloWorld).
+Per il cablaggio ho utilizzato lo schema base descritto nella reference ufficiale di Arduino e disponibile [qui](https://www.arduino.cc/en/Tutorial/LibraryExamples/HelloWorld).
 
 ![schema](https://www.arduino.cc/en/uploads/Tutorial/LCD_Base_bb_Fritz.png)
 
@@ -66,7 +66,7 @@ Un primo facile esempio è quello di scrivere qualcosa di statico sulla prima ri
 ![display](/assets/2020-04-15/display.jpg)
 
 Un secondo esempio alternativo è quello di leggere il testo da scrivere dal monitor seriale di Arduino per poi andarlo a scrivere con la funzionalità di scroll del testo.
-Il codice sorgente è disponibile [qui](https://github.com/capitanfuturo/arduinoSalad/blob/master/008_display_16x2/008_display_16x2.ino).
+Il codice sorgente è disponibile [qui](https://github.com/capitanfuturo/arduinoSalad/blob/master/008_display_16x2_1602A/008_display_16x2_1602A.ino).
 
 ### Boom Shakalaka: Arduino Quiz
 
