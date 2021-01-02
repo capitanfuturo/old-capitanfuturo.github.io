@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Arduino e la matrice LED 8x8 1588BS"
 date:   2020-01-12 15:24:04 +0100
-categories: [Hardware]
+categories: [Arduino]
 ---
 ## Introduzione
 Nel primo post sul tema Arduino ho parlato del kit acquistato su Banggood: [UNO Basic Starter Learning Kit](https://www.banggood.com/UNO-Basic-Starter-Learning-Kit-Upgrade-Version-For-Arduino-p-970714.html?rmmds=myorder&cur_warehouse=CN). Questo kit della Geekcreit contiene tutto l'indispensabile per iniziare ad imparare a programmare ed assemblare componenti elettronici su questa piattaforma.

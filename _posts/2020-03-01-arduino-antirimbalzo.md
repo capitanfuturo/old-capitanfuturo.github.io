@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Arduino e pulsanti bistabili. La funzione di anti-rimbalzo"
 date:   2020-03-01 18:24:04 +0100
-categories: [Hardware]
+categories: [Arduino]
 published: true
 ---
 ## Introduzione

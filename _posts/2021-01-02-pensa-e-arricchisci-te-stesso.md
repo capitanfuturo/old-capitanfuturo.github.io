@@ -3,7 +3,7 @@ layout: post
 title:  ":books: Think & Grow Rich (Napoleon Hill)"
 date:   2021-01-02 22:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 ## Premessa
 Partendo dalla definizione che i curatori danno del libro stesso: _Pensa e arricchisci te stesso è la prima filosofia dell'autorealizzazione_. Un pietra miliare per chi è affascinato dal processo di miglioramento continuo che si può percorrere personalemente.

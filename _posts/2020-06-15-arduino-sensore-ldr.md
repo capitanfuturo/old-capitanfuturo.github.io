@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Arduino + fotocellula LDR"
 date:   2020-06-15 18:24:04 +0100
-categories: [Hardware]
+categories: [Arduino]
 published: true
 ---
 ## Premessa

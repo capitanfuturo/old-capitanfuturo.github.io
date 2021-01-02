@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Spritzino: Arduino smart bartender"
 date:   2020-10-15 18:24:04 +0100
-categories: [Hardware]
+categories: [Arduino]
 published: true
 ---
 ## Premessa

@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Arduino e il display 16x2 1602A"
 date:   2020-04-15 18:24:04 +0100
-categories: [Hardware]
+categories: [Arduino]
 published: true
 ---
 ## Premessa

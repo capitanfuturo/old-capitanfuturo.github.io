@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Arduino e il registro a scorrimento SN74HC595N"
 date:   2020-02-15 15:24:04 +0100
-categories: [Hardware]
+categories: [Arduino]
 published: true
 ---
 ## Introduzione

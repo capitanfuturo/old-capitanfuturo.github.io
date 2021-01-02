@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Arduino, la mia prima avventura"
 date:   2019-11-01 19:24:04 +0100
-categories: [Hardware]
+categories: [Arduino]
 ---
 ## Premessa
 5 anni fa comprai un Raspberry Pi come stazione per il retro-gaming (vedasi il progetto [RetroPie](https://retropie.org.uk/) e come server web per [Bujuse](https://github.com/capitanfuturo/bujuse) il progetto di gestione di magazzino di mia moglie su stack [MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle)). Raspberry Pi è una board con microprocessore pensato per la protopizzazione di progetti elettronici ma si adatta bene anche per installazioni di server. Vuoi per il fatto che sia un sistema computazionale che lo avvicina di più ad un pc che ad un microcontrollore, vuoi perchè all'università non ho mai messo insieme un circuito fisico ma solo esercizi di partitori e amplificatori sta di fatto che non ho mai utilizzato questa piattaforma per il [Physical Computing](https://en.wikipedia.org/wiki/Physical_computing).

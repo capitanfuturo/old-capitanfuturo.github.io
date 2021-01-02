@@ -2,7 +2,7 @@
 layout: post
 title:  ":computer: Arduino Nano e Johnny five"
 date:   2021-01-31 18:24:04 +0100
-categories: [Hardware]
+categories: [Arduino]
 published: false
 ---
 ## Premessa
