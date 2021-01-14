@@ -6,9 +6,9 @@ categories: [Libri]
 published: true
 ---
 ## Premessa
-Partendo dalla definizione che i curatori danno del libro stesso: _Pensa e arricchisci te stesso è la prima filosofia dell'autorealizzazione_. Un pietra miliare per chi è affascinato dal processo di miglioramento continuo che si può percorrere personalemente.
+Partendo dalla definizione che i curatori danno del libro stesso: _Pensa e arricchisci te stesso è la prima filosofia dell'autorealizzazione_. Un pietra miliare per chi è affascinato dal **processo di miglioramento continuo** che si può percorrere personalemente.
 
-L'obiettivo del libro è chiaro: come diventare ricco!
+L'obiettivo del libro è chiaro: come **diventare ricco**!
 
 Per chi vuole cimentarsi nella lettura consiglio di leggere il tutto senza pregiudizi perchè è facile cadere in facili conclusioni. Credo che il libro al di là delle opinioni personali possa insegnare molto o quanto meno un metodo per avviare un percorso di crescita personale.
 
@@ -22,7 +22,7 @@ La cosa che mi ha colpito di più è la volontà di dare un metodo "scientifico"
 
 1. fissare esattamente la **quantità** di denaro che si vuole ottenere
 2. decidere **cosa si vuole dare in cambio** perchè non si ottiene niente per niente dalla vita.
-3. fissare la **data** entro la quale si vuole possedere la quantità di denaro deisderata
+3. fissare la **data** entro la quale si vuole possedere la quantità di denaro desiderata
 4. creare un **piano** con cui raggiungere l'obiettivo
 5. **scriverlo** su un foglio
 6. **ripeterlo** a voce alta tutti i giorni

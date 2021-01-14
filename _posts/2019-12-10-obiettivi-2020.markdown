@@ -72,6 +72,6 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
 
 - :wrench:  Imparare a saldare con un saldatore a stagno dei semplici circuiti elettronici. **Progresso 1/1** :sunny:. Qui l'[esperienza]({% post_url 2020-04-01-saldatore %}).
 
-- :space_invader: Imparare un nuovo linguaggio di programmazione. **Progresso 2/1 TypeScript + JavaScript ES6 +PHP** :sunny:
+- :space_invader: Imparare un nuovo linguaggio di programmazione. **Progresso 2/1 TypeScript + JavaScript ES6 + PHP** :sunny:
 
 > Invece di maledire il buio, prova ad accendere la luce. (Paolo Trabucchi)
