@@ -12,6 +12,8 @@ Quel portatile mi ha seguito fino a qualche mese fa, fino a quando ho deciso di 
 
 In questo post descrivo come ho recuperato la webcam integrata **ck77 94v-0** per renderla una webcam portatile.
 
+![webcam](/assets/2021-03-15/webcam.jpg)
+
 ## Idea di base
 
 L'idea di base, visto che per il mio progetto principale non serve la web cam è quello di estrarre dal case del portatile la webcam e connetterla con un cavo USB al computer. Credo che possa tornarmi utile su un RaspberryPi per esempio.
@@ -31,6 +33,8 @@ Una volta aperto il chassis del portatile e individuata la webcam l'ho smontata 
 Così sono andato per esclusione. Altro colpo di fortuna è stato sapere che l'alimentazione era da 5V, e non 3.3V come potrebbe accadere per altre webcam integrate, questo invece mi ha risparmiato di dover ridurre in qualche modo la tensione della porta USB che è di 5V.
 
 ## Cablaggio
+
+![cablaggio](/assets/2021-03-15/cablaggio.jpg)
 
 Il mio cablaggio è descritto nelle tabelle che seguono. Unica nota è come identificare i cavi Data. Se infatti si sbaglia a identificarli l'effetto più frequente è che il dispositivo USB
 non venga riconosciuto dal sistema operativo.
@@ -78,9 +82,14 @@ l'output parla chiaro, habemus webcam!!!
 [ 2123.883154] input: USB2.0 1.3M UVC WebCam: USB2.0  as /devices/pci0000:00/0000:00:15.0/usb1/1-1/1-1:1.0/input/input20
 ~~~
 
-Bene ora con Cheese prova del nove ed ecco il risultato.
+![dispositivo](/assets/2021-03-15/dispositivo.png)
 
+Bene ora prova del nove ed ecco il risultato.
+
+![screenshot](/assets/2021-03-15/screenshot.png)
 ## Conclusione
+
+![finale](/assets/2021-03-15/finale.jpg)
 
 Mi diverto un mondo a smontare e rimontare le cose (oltre che il software), se poi posso anche recuperare del materiale da vecchi dispositivi per darne nuova vita la cosa mi fa ancora più piacere. Spero di poter usare questo nuovo dispositivo per qualche interessante esperimento con uno dei miei raspberryPi! Stay tuned!
 
@@ -90,4 +99,4 @@ Mi diverto un mondo a smontare e rimontare le cose (oltre che il software), se p
 * [https://www.youtube.com/watch?v=3eZhb-gT8LI](https://www.youtube.com/watch?v=3eZhb-gT8LI)
 * [https://www.youtube.com/watch?v=C8pFkhkTvqo](https://www.youtube.com/watch?v=C8pFkhkTvqo)
 
-> Non aspettatetvi dei problemi, perchè tendono a non deludere le aspettative. (Napoleon Hill)
+> Dite al mondo cosa intendete fare, ma prima datene una dimostrazione concreta. (Napoleon Hill)

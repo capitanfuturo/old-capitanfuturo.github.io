@@ -17,7 +17,7 @@ Beh, ultimamente **make** è tornato in voga nell'ambito della gestione dei cont
 * è facilmente **portabile**
 * è uno strumento per **eseguire task ripetitivi** (vedi compilazione)
 * non necessita di particolari dipendenze, anzi è **out-of-the-box** nel caso di sistemi GNU\Linux e affini.
-* **descrive le dipendenze**
+* **descrive le dipendenze** tra i vari target
 
 ## Storia
 
@@ -75,9 +75,9 @@ La rule di default può essere impostata aggiungendo all'inizio del file questa 
 .DEFAULT_GOAL := hello
 ~~~
 
-## Costanti e variabili
+## Costanti
 
-Makefile permette di dichiarare le costanti. Solitamente a inizio del file makefile attraverso la seguente sintassi. Nell'esempio che segue dichiaro la costante *ECHO_HELLO_WORLD*. Le costanti sono per convenzione dichiarati tutti in maiuscolo e le vribili in minuscolo
+Makefile permette di dichiarare le costanti. Solitamente a inizio del file makefile attraverso la seguente sintassi. Nell'esempio che segue dichiaro la costante *ECHO_HELLO_WORLD*. Le costanti sono per convenzione dichiarati tutti in maiuscolo
 
 ~~~c
 .DEFAULT_GOAL := echo1
@@ -86,6 +86,20 @@ ECHO_HELLO_WORLD := @echo "Hello World"
 
 echo1:
 	$(ECHO_HELLO_WORLD)
+~~~
+
+## Variabili
+
+Le variabili sono definite come nell'esempio che segue:
+
+~~~c
+.DEFAULT_GOAL := echo1
+
+x = hello
+y = world
+
+echo1:
+	@echo $(x) $(y)
 ~~~
 
 ## PHONY targets
@@ -101,10 +115,12 @@ echo1:
 
 ## Funzioni
 
-Un'altro construtto utile è quello della dichiarazione di funzioni. La sintassi per richiamare una funzione è la seguente:
+Un'altro costrutto utile è quello della dichiarazione di funzioni. La sintassi per richiamare una funzione è la seguente:
 
 ~~~c
 $(function-name arg1[, argn])
+
+$(call function-name,arg1,...,argn)
 ~~~
 
 mentre la sua dichiarazione è la seguente:
@@ -137,9 +153,21 @@ scoping_issue:
 	@$(call parent one two)
 ~~~
 
-## Formattazione
+## Tips
+### Formattazione
 
 L'**identazione** è configurata di default con i TAB, per modificare questo aspetto usare la variabile .RECIPEPREFIX
+
+### Shell di default
+
+Si può impostare la shell di default con la variabile SHELL
+
+~~~c
+SHELL=/bin/bash
+
+cool:
+    echo "Hello from bash"
+~~~
 
 ## Conclusione
 
@@ -148,5 +176,10 @@ Questo post non vuole essere una guida esaustiva anzi come il resto del blog è 
 Da questo primo utilizzo posso dire che i Makefile possono essere utilizzati per automatizzare i comandi più ricorrenti in ambito docker ma anche in fase di sviluppo può tornare utili. Sono molto comodi per aprire vscode con parametri particolari e uguali per tutto il team dev o per wrappare i comandi git per esempio in modo da garantire che prima di una commit vena eseguito un pull del repository per esempio.
 
 Conto di ritornare su questo post perchè sono sicuro di aver solo scalfito le potenzialità di questo strumento.
+
+## Links
+
+* https://makefiletutorial.com/
+* https://alexharv074.github.io/2019/12/26/gnu-make-for-devops-engineers.html
 
 > Non aspettatetvi dei problemi, perchè tendono a non deludere le aspettative. (Napoleon Hill)
