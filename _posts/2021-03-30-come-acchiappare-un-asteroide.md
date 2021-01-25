@@ -3,7 +3,7 @@ layout: post
 title:  ":books: Come acchiappare un asteoride (Adrian Fartade)"
 date:   2021-03-30 22:24:04 +0100
 categories: [Libri]
-published: true
+published: false
 ---
 ## Premessa
 Adrian Fartade è un divulgatore "meraviglioso", usando le sue stesse parole. E' uno scrittore insolito che usa lo stesso stile dei suoi video e che riesce a rendere affasciannte lo studio di comete e asteroidi, oggetti celesti che ci sono stati raccontati per lo più come piccoli sassi o palle di ghiaccio.
@@ -52,4 +52,4 @@ Se non ci estingueremo prima ce ne saranno sicuramente delle belle da vedere nel
 
 Adrian Fartade, _Come acchiappare un asteroide_, Rizzoli, 16 giugno 2020. [Amazon](https://www.amazon.it/Come-acchiappare-asteroide-scoperta-aiuteranno-ebook/dp/B085PXXT3Z/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1610894353&sr=8-1)
 
-> La nostra forza non sta nel tenerci al sicuro dal freddo universo e nel nasconderci, ma in questa grande volontà di uscire nonostante le intemperie e partire per mille avventure e viaggi di esplorazione.
+> La nostra forza non sta nel tenerci al sicuro dal freddo universo e nel nasconderci, ma in questa grande volontà di uscire nonostante le intemperie e partire per mille avventure e viaggi di esplorazione. (Adrian Fartade)
