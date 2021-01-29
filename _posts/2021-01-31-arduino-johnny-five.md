@@ -3,7 +3,7 @@ layout: post
 title:  ":computer: Arduino Nano e Johnny five"
 date:   2021-01-31 18:24:04 +0100
 categories: [Arduino]
-published: false
+published: true
 ---
 ## Premessa
 Tra gli obiettivi di questo 2021 c'è quello di perfezionare l'uso di NodeJS e di riflesso Javascript e allora quale migliore modo per fondere quanto imparato l'anno scorso con Arduino insieme a Node?
