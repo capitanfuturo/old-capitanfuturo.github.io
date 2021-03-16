@@ -46,4 +46,4 @@ In questo libro Forni spiega in modo chiaro alcuni meccanismi base della macroec
 
 Lorenzo Forni, _Nessun pasto è gratis: Perchè economisti e politici non vanno d'accordo_, Società editrice il Mulino, 13 giugno 2019. [Amazon](https://www.amazon.it/Nessun-pasto-gratis-economisti-Contemporanea-ebook/dp/B07SN3TTFK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1611606122&sr=8-1)
 
-> Nell'economia sono pericolosi gli zeri che stanno dietro, nella politica quelli che stanno davanti... (Ronald Searle)
+> Nell'economia sono pericolosi gli zeri che stanno dietro, nella politica quelli che stanno davanti... (Ronald Searle).

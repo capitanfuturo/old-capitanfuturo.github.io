@@ -3,7 +3,7 @@ layout: post
 title: ":computer: Recuperare una webcam ck77 94v-0 da un vecchio portatile"
 date: 2021-03-15 18:24:04 +0100
 categories: [ComputerScience]
-published: false
+published: true
 ---
 ## Introduzione
 Quando mi laureai nel 2007 il regalo più gradito fu quello di mia madre che mi fece scegliere il portatile che volevo. All'epoca ci mesi diversi mesi per sceglierlo e alla fine presi un ottimo [Asus F6A-3P063C](https://notebookitalia.it/database-notebook/asus-f6a-3p063c). Era un ultraportatile di 13.3 pollici, 3 GB di RAM e Intel Dual Core, una bomba per l'epoca.

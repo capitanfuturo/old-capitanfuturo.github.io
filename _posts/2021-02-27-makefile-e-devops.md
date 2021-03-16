@@ -5,9 +5,7 @@ date: 2021-02-27 18:24:04 +0100
 categories: [ComputerScience]
 published: true
 ---
-
 ## Introduzione
-
 Oltre ad Ansible, per motivi lavorativi mi sono messo a giocare con infrastrutture e architetture basate su container docker in ambito docker-compose. Lo so che chi sta leggendo penserà che attualmente esiste solo kubernates per queste cose però mi sono dovuto ricredere anche io su questo tema.
 
 Docker-compose è un ottimo strumento, direi un passo abilitante e che consiglio a tutti per entrare nell'ottica non solo dei microservizi, intesi nello specifico come ristrutturazione di monoliti software ma anche per iniziare a spostarsi nelle competenze devops, nella parte di netowrking e infrastrutture.
