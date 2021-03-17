@@ -2,7 +2,7 @@
 layout: post
 title: ":computer: Recuperare una webcam ck77 94v-0 da un vecchio portatile"
 date: 2021-03-15 18:24:04 +0100
-categories: [ComputerScience]
+categories: [Hardware]
 published: true
 ---
 ## Introduzione
