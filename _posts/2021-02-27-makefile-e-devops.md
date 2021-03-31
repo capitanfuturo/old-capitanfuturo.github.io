@@ -5,7 +5,9 @@ date: 2021-02-27 18:24:04 +0100
 categories: [ComputerScience]
 published: true
 ---
+
 ## Introduzione
+
 Oltre ad Ansible, per motivi lavorativi mi sono messo a giocare con infrastrutture e architetture basate su container docker in ambito docker-compose. Lo so che chi sta leggendo penserà che attualmente esiste solo kubernates per queste cose però mi sono dovuto ricredere anche io su questo tema.
 
 Docker-compose è un ottimo strumento, direi un passo abilitante e che consiglio a tutti per entrare nell'ottica non solo dei microservizi, intesi nello specifico come ristrutturazione di monoliti software ma anche per iniziare a spostarsi nelle competenze devops, nella parte di netowrking e infrastrutture.
@@ -171,6 +173,17 @@ cool:
     echo "Hello from bash"
 ```
 
+### Utilizzare file .env
+
+Con docker e docker-compose ci siamo abituati a sfruttare al massimo le variabili di ambiente, per configurare a parità di file ambienti di distribuzione diversa. I Makefile sfruttano le variabili attualmente in uso nella shell. Un trucco per poter avere anche in questo contesto i nostri amati .env è l'utilizzo di questo snippet:
+
+```c
+ifneq (,$(wildcard ./.env))
+    include .env
+    export
+endif
+```
+
 ## Conclusione
 
 Questo post non vuole essere una guida esaustiva anzi come il resto del blog è un appunto personale che spero possa essere utile anche per qualcun'altro. Ovviamente andrò ad integrare in futuro sullo stesso post se dovessi utilizzare altri costrutti di make.
@@ -183,5 +196,6 @@ Conto di ritornare su questo post perchè sono sicuro di aver solo scalfito le p
 
 - <https://makefiletutorial.com/>
 - <https://alexharv074.github.io/2019/12/26/gnu-make-for-devops-engineers.html>
+- <https://lithic.tech/blog/2020-05/makefile-dot-env>
 
 > Non aspettatetvi dei problemi, perchè tendono a non deludere le aspettative. (Napoleon Hill)
