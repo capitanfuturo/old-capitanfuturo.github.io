@@ -7,7 +7,6 @@ published: true
 ---
 
 ## Premessa
-
 Adrian Fartade è un divulgatore "meraviglioso", usando le sue stesse parole. E' uno scrittore insolito che usa lo stesso stile dei suoi video e che riesce a rendere affasciannte lo studio di comete e asteroidi, oggetti celesti che ci sono stati raccontati per lo più come piccoli sassi o palle di ghiaccio.
 
 Nel secondo libro avevo notato un calo di fascino. la sensazione che mi ha lasciato è quella di un vorrei ma non posso, nel senso che "avrei voluto curare meglio il tutto ma il mio editore mi aveva già commissionato il terzo libro".
