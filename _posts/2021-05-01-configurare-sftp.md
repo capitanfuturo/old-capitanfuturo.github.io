@@ -3,7 +3,7 @@ layout: post
 title:  ":computer: Configurare un server SFTP per condividere contenuti"
 date:   2021-05-01 22:24:04 +0100
 categories: [ComputerScience]
-published: false
+published: true
 ---
 ## Introduzione
 In questo articolo voglio annotarmi quello che ho imparato configurando un server SFTP Linux per permettere l'accesso ad utenze diverse. So che non è qualcosa di entusiasmante però conoscendomi preferisco scrivere per non dimenticarmi.
