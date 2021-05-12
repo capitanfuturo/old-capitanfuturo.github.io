@@ -14,7 +14,9 @@ help:
 ##up: @ Start the local container 
 up:
 	docker-compose up -d
+	@echo "visit http://localhost:4000"
 
 ##down: @ Stop the local container 
 down:
 	docker-compose down
+

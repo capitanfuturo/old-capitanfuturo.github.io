@@ -6,9 +6,9 @@ categories: [Hardware]
 published: true
 ---
 ## Introduzione
-Quando mi laureai nel 2007 il regalo più gradito fu quello di mia madre che mi fece scegliere il portatile che volevo. All'epoca ci mesi diversi mesi per sceglierlo e alla fine presi un ottimo [Asus F6A-3P063C](https://notebookitalia.it/database-notebook/asus-f6a-3p063c). Era un ultraportatile di 13.3 pollici, 3 GB di RAM e Intel Dual Core, una bomba per l'epoca.
+Mi sono laureato nel 2007 e da allora mi ha sempre seguito un bellissimo portatile della Asus. All'epoca ci mesi diversi mesi per sceglierlo e alla fine presi un [Asus F6A-3P063C](https://notebookitalia.it/database-notebook/asus-f6a-3p063c). Era un ultraportatile di 13.3 pollici, 3 GB di RAM e Intel Dual Core, una bomba per l'epoca.
 
-Quel portatile mi ha seguito fino a qualche mese fa, fino a quando ho deciso di smontarlo per farlo rivivere in diversi progetti che avevo in mente.
+Quel portatile mi ha seguito fino a qualche mese fa, fino a quando ho deciso di smontarlo per farlo rivivere in diversi progetti che avevo in mente. La batteria era esaurita ma il limte più grande era il processore a 32 bit.
 
 In questo post descrivo come ho recuperato la webcam integrata **ck77 94v-0** per renderla una webcam portatile.
 
