@@ -3,7 +3,7 @@ layout: post
 title: ":books: Storia dell'economia (John Kenneth Galbraith)"
 date: 2021-05-15 22:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 ## Premessa
 Alla sera prima di andare a letto, dopo aver salutato i bimbi mi piace guardare qualche video dei canali youtube che seguo, leggere e programmare bevendo una buona grappa secca della Poli. Tra i canali che seguo c'è quello di [https://www.youtube.com/c/WhatsupEconomy](https://www.youtube.com/c/WhatsupEconomy/featured), che vi suggerisco.
