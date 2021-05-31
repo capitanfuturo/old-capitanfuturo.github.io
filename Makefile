@@ -20,3 +20,6 @@ up:
 down:
 	docker-compose down
 
+##code: @ VS code
+code:
+	code .
