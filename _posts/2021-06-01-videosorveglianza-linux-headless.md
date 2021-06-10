@@ -3,7 +3,7 @@ layout: post
 title: ":computer: Videosorveglianza su Linux headless (Raspberry Pi)"
 date: 2021-06-01 22:24:04 +0100
 categories: [Hardware]
-published: false
+published: true
 ---
 ## Introduzione
 In un precedente articolo ho raccontato come ho recuperato la webcam di un vecchio portatile per poterlo usare come una normale web cam su un altro PC. Il riferimento è questo [Recuperare una webcam ck77 94v-0 da un vecchio portatile]({% post_url 2021-03-15-recuperare-webcam-ck77-94v-0 %})
