@@ -3,7 +3,7 @@ layout: post
 title: ":books: L'ordine del tempo + Che cos'è il tempo? (Carlo Rovelli)"
 date: 2021-07-01 22:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 
 ## Introduzione
