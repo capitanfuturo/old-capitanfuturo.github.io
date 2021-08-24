@@ -20,12 +20,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   My personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://capitanfuturo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+rss: feed.xml
+show_excerpts: true
+
+# Social
 linkedin_username: giuseppecaliendo
 github_username: capitanfuturo
-rss: feed.xml
 google_analytics: UA-9564228-3
-
-show_excerpts: true
 
 # Build settings
 markdown: kramdown
@@ -37,11 +38,14 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - docker-compose.yml
+  - Makefile
+  - localhost.sh

@@ -4,7 +4,6 @@ permalink: /categories/
 title: Categorie
 ---
 
-
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
@@ -19,6 +18,7 @@ title: Categorie
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
+
   </div>
 {% endfor %}
 </div>
