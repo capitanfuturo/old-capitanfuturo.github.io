@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ":floppy_disk: Raspberry PI 3 come docker - docker-compose node su Ubuntu Server"
-date: 2021-10-01 19:24:04 +0100
+date: 2021-09-01 19:24:04 +0100
 categories: [Software]
 published: false
 ---
