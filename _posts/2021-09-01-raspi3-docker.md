@@ -3,7 +3,7 @@ layout: post
 title: ":floppy_disk: Raspberry PI 3 come docker - docker-compose node su Ubuntu Server"
 date: 2021-09-01 19:24:04 +0100
 categories: [Software]
-published: false
+published: true
 ---
 ## Introduzione
 Uno degli obiettivi che mi sono posto ques'anno è quello di migliorare e perfezionare le mie competenze sullo stack docker, node e angular. In particolare a lavoro ho avuto la possibilità di sperimentare ed imparare molto su questi oggetti per cui ho voluto utilizzare un vecchio Raspberry PI 3 come nodo nel mio homelab per far girare un docker daemon e alcuni docker-compose.
