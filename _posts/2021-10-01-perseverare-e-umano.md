@@ -3,7 +3,7 @@ layout: post
 title: ":books: L'unica regola è che non ci sono regole: Netflix e la cultura della reinvenzione (Hastings, Meyer, Caraffini)"
 date: 2021-09-15 22:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 ## Introduzione
 Dopo aver letto "Resisto dunque sono" di Pietro Trabucchi mi sono lanciato in questo libro nel quale il psicologo e preparatore atletico racconta di come mantenere alta la **motivazione** e di come coltivarla.
