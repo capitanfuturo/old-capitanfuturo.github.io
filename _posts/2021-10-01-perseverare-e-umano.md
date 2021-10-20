@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ":books: L'unica regola è che non ci sono regole: Netflix e la cultura della reinvenzione (Hastings, Meyer, Caraffini)"
-date: 2021-09-15 22:24:04 +0100
+title: ":books: Perseverare è umano (Pietro Trabucchi)"
+date: 2021-10-01 22:24:04 +0100
 categories: [Libri]
 published: true
 ---
