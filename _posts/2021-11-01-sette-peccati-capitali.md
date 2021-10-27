@@ -3,7 +3,7 @@ layout: post
 title: ":books: I sette peccati capitali dell'economia italiana (Cottarelli)"
 date: 2021-11-01 22:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 
 ## Introduzione

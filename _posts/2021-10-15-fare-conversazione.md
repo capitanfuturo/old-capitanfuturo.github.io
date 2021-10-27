@@ -3,7 +3,7 @@ layout: post
 title: ":books: Fare conversazione: Come Parlare alla Gente, Aumentare il Vostro Carisma, le Abilità Sociali, Attaccare Bottone & Diminuire l'Ansia Sociale (Aston Sanderson)"
 date: 2021-10-15 22:24:04 +0100
 categories: [Libri]
-published: false
+published: true
 ---
 ## Introduzione
 Sotto l'ombrellone mi è capitato di scorrere tra i libri in prime reading del Kindle questo breve manuale di Aston Sanderson e senza troppo pensarci l'ho iniziato a leggere.
