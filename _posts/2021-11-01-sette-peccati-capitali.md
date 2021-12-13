@@ -7,7 +7,6 @@ published: true
 ---
 
 ## Introduzione
-
 Ultimamente ho letto alcuni libri di economia ed ho iniziato ad avere le idee più chiare su alcuni meccanismi di base che regolano le politiche macroeconomiche e le leggi microeconomiche. Tra i libri che ho scelto di leggere quest'anno compare anche questo di Cottarelli perchè anche se un pò datato, vista la parentesi pandemica che ci ha travolto, mi interessava leggere questa analisi.
 
 Carlo Cottarelli mi ricorda un periodo che va dal 2013 e 2014 quando è stato incaricato dal governo Letta e poi Renzi di redigere una revisione della spesa pubblica. La cosa che mi lascia perplesso è che di tutto il lavoro fatto, comprese cifre ragguardevoli non se nè mai fatto nulla. Tutto è stato dimenticato nel cassetto e non ne sento più parlare se non per slogan.
@@ -87,4 +86,4 @@ Eppure è questo che fa la macroeconomia e che fanno i grandi statisti... anche 
 
 Carlo Cottarelli, _I sette peccati capitali dell'economia italiana_, Feltrinelli, 8 febbraio 2018. [Amazon](https://www.amazon.it/sette-peccati-capitali-delleconomia-italiana/dp/8807173328/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YUT9GI7RJ916&dchild=1&keywords=i+sette+peccati+capitali+dell+economia+italiana&qid=1629662429&sprefix=i+sette+pecc%2Caps%2C213&sr=8-1)
 
-> (ndr uscire dall'Euro) Sarebbe un errore. Sarebbe come dire che è meglio giocare in serie B perché continuiamo a perdere in serie A.
+> (ndr uscire dall'Euro) Sarebbe un errore. Sarebbe come dire che è meglio giocare in serie B perché continuiamo a perdere in serie A. (Cottarelli)
