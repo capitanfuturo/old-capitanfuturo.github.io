@@ -20,6 +20,10 @@ up:
 down:
 	docker-compose down
 
+##logs: @ Tail logs for compose 
+logs:
+	docker-compose logs
+
 ##code: @ VS code
 code:
 	code .

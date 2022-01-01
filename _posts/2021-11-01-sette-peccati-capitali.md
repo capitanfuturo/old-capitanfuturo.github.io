@@ -85,4 +85,4 @@ Eppure è questo che fa la macroeconomia e che fanno i grandi statisti... anche 
 
 Carlo Cottarelli, _I sette peccati capitali dell'economia italiana_, Feltrinelli, 8 febbraio 2018. [Amazon](https://www.amazon.it/sette-peccati-capitali-delleconomia-italiana/dp/8807173328/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YUT9GI7RJ916&dchild=1&keywords=i+sette+peccati+capitali+dell+economia+italiana&qid=1629662429&sprefix=i+sette+pecc%2Caps%2C213&sr=8-1)
 
-> (ndr uscire dall'Euro) Sarebbe un errore. Sarebbe come dire che è meglio giocare in serie B perché continuiamo a perdere in serie A.
+> (ndr uscire dall'Euro) Sarebbe un errore. Sarebbe come dire che è meglio giocare in serie B perché continuiamo a perdere in serie A. (Cottarelli)
